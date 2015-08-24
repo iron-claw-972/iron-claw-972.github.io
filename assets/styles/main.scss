@@ -1,0 +1,102 @@
+---
+---
+$white-color: #FFF;
+
+.heading {
+  background-image: url('/assets/img/team_2.jpg');
+  width: 100%;
+  min-height: 400px;
+  background-position: top;
+  background-size: cover;
+}
+
+
+.heading-text {
+  padding: 20vh 0 40px 10vw;
+  color: $white-color;
+}
+
+
+.heading-title {
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.heading-tagline {
+  margin-left: 5vw;
+  line-height: 1;
+}
+
+@media all and (min-width: 360px) {
+  .heading-title {
+    font-size: 6em;
+  }
+
+  .heading-tagline {
+    font-size: 1.5em;
+  }
+}
+
+@media all and (max-width: 359px) {
+  .heading-title {
+    font-size: 3em;
+  }
+
+  .heading-tagline {
+    font-size: 1em;
+  }
+}
+
+.down-button {
+  display: block;
+  margin: -30px auto 0 auto;
+}
+
+.wide-card {
+  width: 512px;
+
+  .mdl-card__title {
+    color: #fff;
+    height: 176px;
+  }
+
+  .mdl-card__menu {
+    color: #fff;
+  }
+}
+
+.who-are-we {
+  .mdl-card__title {
+    background: url('/assets/img/team_1.jpg') top / cover;
+  }
+}
+
+.sponsors {
+  .mdl-card__title {
+    background: url('/assets/img/background.png') top / cover;
+  }
+}
+
+.follow {
+  .mdl-card__title {
+    background: url('/assets/img/team_3.jpg') top / cover;
+  }
+}
+
+.contact {
+  .mdl-card__title {
+    background: url('/assets/img/background_2.png') top / cover;
+  }
+}
+.social {
+  display: inline-block;
+}
+
+iframe {
+  display: inline-block;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}

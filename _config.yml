@@ -1,0 +1,5 @@
+exclude: [bin, CNAME, Gemfile, Gemfile.lock, README.md, vendor]
+safe: true
+sass:
+    sass_dir: _scss
+    style: :compressed
