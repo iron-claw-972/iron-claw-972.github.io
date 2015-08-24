@@ -24,7 +24,7 @@ installed to be able to run this. These programs can be installed on Ubuntu with
 
 Create a new branch with `git checkout -b <branch name>`. Push that to GitHub and
 open a pull request. Have at least one other member review it for spelling errors
-and style. Remember that everything pushed to the `gh-pages` branch goes live instantly.
+and style. Remember that everything pushed to the `master` branch goes live instantly.
 
 ## Things to check when reviewing Pull Requests
 
@@ -33,4 +33,5 @@ When reviewing, make sure
 - There are no spelling mistakes.
 - Images are optimized (See if running `rake optimize` does anything)
 - The website still works on smartphones (Use http://www.responsinator.com/ to check the local webserver http://localhost:4000).
-- The features aren't too cutting edge. We want to support modern versions of Chrome, modern and ESL releases of Firefox, and Internet Explorer 10+ (Use https://saucelabs.com/manual and https://ngrok.com/ to do this).
+- The features are not too cutting edge. We want to support modern versions of Chrome, modern and ESL releases of Firefox, and Internet Explorer 10+ (Use https://saucelabs.com/manual and https://ngrok.com/ to do this).
+- The website works without javascript, as many people surf the web with javascript disabled.
