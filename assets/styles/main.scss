@@ -1,15 +1,20 @@
 ---
 ---
 $white-color: #FFF;
+$about-image: url('/assets/img/team_1.jpg');
 
 .heading {
-  background-image: url('/assets/img/team_2.jpg');
   width: 100%;
   min-height: 400px;
-  background-position: top;
-  background-size: cover;
 }
 
+.main-background {
+  background: url('/assets/img/team_2.jpg') top / cover;
+}
+
+.about-background {
+  background: $about-image top / cover;
+}
 
 .heading-text {
   padding: 20vh 0 40px 10vw;
@@ -52,9 +57,7 @@ $white-color: #FFF;
   margin: -30px auto 0 auto;
 }
 
-.wide-card {
-  width: 512px;
-
+.card {
   .mdl-card__title {
     color: #fff;
     height: 176px;
@@ -65,9 +68,19 @@ $white-color: #FFF;
   }
 }
 
+.wide-card {
+  width: 512px;
+}
+
+.page-card {
+  width: 75%;
+  min-width: 300px;
+  max-width: 1000px;
+}
+
 .who-are-we {
   .mdl-card__title {
-    background: url('/assets/img/team_1.jpg') top / cover;
+    background: $about-image top / cover;
   }
 }
 
