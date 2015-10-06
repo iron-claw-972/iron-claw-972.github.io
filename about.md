@@ -7,10 +7,10 @@ image: about-background
 
 ## Who are we?
 
-Iron Claw is an <a href="http://www.usfirst.org/roboticsprograms/frc">FRC</a>
-team run by the Los Gatos High School Robotics Club. This year (2016), we
-will restart team 972 at LGHS. We look forward to seeing all of our fellow teams
-and students at Silicon Valley Regional in April 2016!
+Iron Claw is an [First Robotics Competition (FRC)](http://www.usfirst.org/roboticsprograms/frc)
+team run by the Los Gatos High School Robotics Club. This year we
+are restarting our FRC team at LGHS. We look forward to seeing our fellow teams
+at the Silicon Valley Regional in April 2016!
 
 ## Our History
 
@@ -26,9 +26,9 @@ FIRST Tech Challenge (FTC) in 2012. FTC is a smaller-scale and lower-cost roboti
 the Los Gatos High School Robotics Club decided to split off from Pioneer High School and the Apes of Wrath
 due to fast-increasing interest in robotics and our team's growing size.
 
-We are now restarting team 972 as "Iron Claw". Our mission is to develop and nuture interest in 
+We are now restarting team 972 as "Iron Claw". Our mission is to develop and nuture interest in
 STEM within the Los Gatos community and to teach our members real-life STEM skills, teamwork, and
 [gracious professionalism](http://www.usfirst.org/aboutus/gracious-professionalism).
 
 Our team's former website can still be found [here](http://losgatosmanufacturing.com/clubs/robotics_team.php").
-Our progress through the years can also be found at the[Blue Alliance](https://www.thebluealliance.com/team/972"), a website that keeps team information, event results, and video from previous years for all FRC teams.
+Our progress through the years can also be found at the [Blue Alliance](https://www.thebluealliance.com/team/972"), a website that keeps team information, event results, and video from previous years for all FRC teams.
