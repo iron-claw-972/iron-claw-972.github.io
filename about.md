@@ -31,4 +31,5 @@ STEM within the Los Gatos community and to teach our members real-life STEM skil
 [gracious professionalism](http://www.usfirst.org/aboutus/gracious-professionalism).
 
 Our team's former website can still be found [here](http://losgatosmanufacturing.com/clubs/robotics_team.php).
+
 Our progress through the years can also be found at the [Blue Alliance](https://www.thebluealliance.com/team/972), a website that keeps team information, event results, and video from previous years for all FRC teams.
