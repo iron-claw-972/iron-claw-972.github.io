@@ -26,7 +26,7 @@ FIRST Tech Challenge (FTC) in 2012. FTC is a smaller-scale and lower-cost roboti
 the Los Gatos High School Robotics Club decided to split off from Pioneer High School and the Apes of Wrath
 due to fast-increasing interest in robotics and our team's growing size.
 
-We are now restarting team 972 as "Iron Claw". Our mission is to develop and nuture interest in
+We are now restarting team 972 as "Iron Claw". Our mission is to develop and nurture interest in
 STEM within the Los Gatos community and to teach our members real-life STEM skills, teamwork, and
 [gracious professionalism](http://www.usfirst.org/aboutus/gracious-professionalism).
 
