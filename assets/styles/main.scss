@@ -1,26 +1,50 @@
 ---
 ---
+
+//constants
 $white-color: #FFF;
+$main-image: url('/assets/img/team_2.jpg');
 $about-image: url('/assets/img/team_1.jpg');
+$team-support-image: url('/assets/img/background.png');
+$follow-image: url('/assets/img/team_3.jpg');
+$contact-image: url('/assets/img/team_4.jpg');
+$calendar-image: url('/assets/img/background_2.png');
 
-.heading {
-  width: 100%;
-  min-height: 400px;
-}
-
+//backgrounds
 .main-background {
-  background: url('/assets/img/team_2.jpg') top / cover;
+  background: $main-image top / cover;
 }
 
 .about-background {
   background: $about-image top / cover;
 }
 
+.team-support-background {
+  background: $team-support-image top / cover
+}
+
+.follow-background {
+  background: $follow-image top / cover;
+}
+
+.contact-background {
+  background: $contact-image center / cover;
+}
+
+.calendar-background {
+  background: $calendar-image top / cover;
+}
+
+//heading
+.heading {
+  width: 100%;
+  min-height: 400px;
+}
+
 .heading-text {
   padding: 20vh 0 40px 10vw;
   color: $white-color;
 }
-
 
 .heading-title {
   margin-bottom: 10px;
@@ -52,11 +76,13 @@ $about-image: url('/assets/img/team_1.jpg');
   }
 }
 
+//buttons
 .down-button {
   display: block;
   margin: -30px auto 0 auto;
 }
 
+//cards
 .card {
   .mdl-card__title {
     color: #fff;
@@ -90,19 +116,25 @@ $about-image: url('/assets/img/team_1.jpg');
 
 .team-support {
   .mdl-card__title {
-    background: url('/assets/img/background.png') top / cover;
+    background: $team-support-image top / cover;
   }
 }
 
 .follow {
   .mdl-card__title {
-    background: url('/assets/img/team_3.jpg') top / cover;
+    background: $follow-image top / cover;
   }
 }
 
 .contact {
   .mdl-card__title {
-    background: url('/assets/img/team_4.jpg') center / cover;
+    background: $contact-image center / cover;
+  }
+}
+
+.calendar {
+  .mdl-card__title {
+    background: $calendar-image top / cover;
   }
 }
 
@@ -119,10 +151,4 @@ iframe {
   -webkit-flex: 1 1 auto;
   justify-content: center;
   -webkit-justify-content: center;
-}
-
-.calendar {
-  .mdl-card__title {
-    background: url('/assets/img/background_2.png') top / cover;
-  }
 }
