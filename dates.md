@@ -13,7 +13,7 @@ Tuesday, 2/23: FRC Build Season Ends (Bag & Tag)
 
 Thursday, 3/10 - Sunday, 3/13: [Central Valley Regional](http://www.cvrobotics.org/frc/regional/) (tentative)
 
-Thursday, 4/7 - Sunday, 4/10: [Silicon Valley Regional](http://www.firstsv.org/)
+Thursday, 4/7 - Saturday, 4/9: [Silicon Valley Regional](http://www.firstsv.org/)
 
 ### Outreach
 
