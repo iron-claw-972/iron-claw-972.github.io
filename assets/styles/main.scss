@@ -9,6 +9,7 @@ $team-support-image: url('/assets/img/background.png');
 $follow-image: url('/assets/img/team_3.jpg');
 $contact-image: url('/assets/img/team_4.jpg');
 $calendar-image: url('/assets/img/background_2.png');
+$student-info-image: url('/assets/img/team_5.jpg');
 
 //backgrounds
 .main-background {
@@ -33,6 +34,10 @@ $calendar-image: url('/assets/img/background_2.png');
 
 .calendar-background {
   background: $calendar-image top / cover;
+}
+
+.student-info-background {
+  background: $student-info-image bottom / cover
 }
 
 //heading
@@ -135,6 +140,12 @@ $calendar-image: url('/assets/img/background_2.png');
 .calendar {
   .mdl-card__title {
     background: $calendar-image top / cover;
+  }
+}
+
+.student-info {
+  .mdl-card__title {
+    background: $student-info-image bottom / cover;
   }
 }
 
