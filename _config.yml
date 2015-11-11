@@ -3,3 +3,4 @@ safe: true
 sass:
     sass_dir: _scss
     style: :compressed
+calendar_link: https://calendar.google.com/calendar/embed?src=o3uckm13gkcc5tu4u3846ik0pc%40group.calendar.google.com&ctz=America/Los_Angeles

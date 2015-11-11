@@ -23,4 +23,4 @@ If you are interested in a demonstration from Iron Claw, please [contact us](mai
 
 ### Meetings and Other Events
 
-For dates of team meetings and other events, take a look at [our Google calendar](https://calendar.google.com/calendar/embed?src=o3uckm13gkcc5tu4u3846ik0pc%40group.calendar.google.com&ctz=America/Los_Angeles').
+For dates of team meetings and other events, take a look at [our Google calendar]({{ site.calendar_link }}).
