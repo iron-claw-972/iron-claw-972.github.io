@@ -6,6 +6,7 @@ $white-color: #FFF;
 $main-image: url('/assets/img/team_2.jpg');
 $about-image: url('/assets/img/team_1.jpg');
 $team-support-image: url('/assets/img/background.png');
+$fundraising-image: url('/assets/img/background_2.png'); /*PLACEHOLDER BACKGROUND*/
 $follow-image: url('/assets/img/team_3.jpg');
 $contact-image: url('/assets/img/team_4.jpg');
 $calendar-image: url('/assets/img/background_2.png');
@@ -22,6 +23,10 @@ $student-info-image: url('/assets/img/team_5.jpg');
 
 .team-support-background {
   background: $team-support-image top / cover
+}
+
+.fundraising-background {
+  background: $fundraising-image top / cover;
 }
 
 .follow-background {
@@ -122,6 +127,12 @@ $student-info-image: url('/assets/img/team_5.jpg');
 .team-support {
   .mdl-card__title {
     background: $team-support-image top / cover;
+  }
+}
+
+.fundraising {
+  .mdl-card__title {
+    background: $fundraising-image top / cover;
   }
 }
 
