@@ -40,6 +40,10 @@ $student-info-image: url('/assets/img/team_5.jpg');
   background: $student-info-image bottom / cover
 }
 
+.contact-info-background {
+  background: $contact-image bottom / cover
+}
+
 //heading
 .heading {
   width: 100%;
