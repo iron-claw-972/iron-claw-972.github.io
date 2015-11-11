@@ -9,7 +9,7 @@ $team-support-image: url('/assets/img/background.png');
 $follow-image: url('/assets/img/team_3.jpg');
 $contact-image: url('/assets/img/team_4.jpg');
 $calendar-image: url('/assets/img/background_2.png');
-$join-team-image: url('/assets/img/team_5.jpg');
+$student-info-image: url('/assets/img/team_5.jpg');
 
 //backgrounds
 .main-background {
@@ -34,6 +34,10 @@ $join-team-image: url('/assets/img/team_5.jpg');
 
 .calendar-background {
   background: $calendar-image top / cover;
+}
+
+.student-info-background {
+  background: $student-info-image bottom / cover
 }
 
 //heading
@@ -139,9 +143,9 @@ $join-team-image: url('/assets/img/team_5.jpg');
   }
 }
 
-.join-team {
+.student-info {
   .mdl-card__title {
-    background: $join-team-image bottom / cover;
+    background: $student-info-image bottom / cover;
   }
 }
 
