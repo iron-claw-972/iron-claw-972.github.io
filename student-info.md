@@ -14,5 +14,6 @@ Click [here](/contact-info) for contact information.
 ### Already a team member?
 
 You can find our student registration packet here:
-[Student Registration Packet](/files/student_registration_packet.pdf)
+[Student Registration Packet](/files/student_registration_packet.pdf).
+
 Other important team links may be posted here as well, so keep your eyes open!
