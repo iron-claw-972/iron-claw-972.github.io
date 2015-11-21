@@ -3,6 +3,7 @@
 
 //constants
 $white-color: #FFF;
+$orange-color: #FF9900;
 $main-image: url('/assets/img/team_2.jpg');
 $about-image: url('/assets/img/team_1.jpg');
 $team-support-image: url('/assets/img/background.png');
@@ -51,8 +52,14 @@ $student-info-image: url('/assets/img/team_5.jpg');
 }
 
 .heading-text {
-  padding: 20vh 0 40px 10vw;
-  color: $white-color;
+  padding: 20vh 0 0px 30vw;
+  color: $orange-color;
+}
+
+.heading-logo {
+  position:absolute;
+  top:170px;
+  left:200px;
 }
 
 .heading-title {
@@ -63,6 +70,7 @@ $student-info-image: url('/assets/img/team_5.jpg');
 .heading-tagline {
   margin-left: 5vw;
   line-height: 1;
+  color: $orange-color;
 }
 
 @media all and (min-width: 360px) {
@@ -88,7 +96,7 @@ $student-info-image: url('/assets/img/team_5.jpg');
 //buttons
 .down-button {
   display: block;
-  margin: -30px auto 0 auto;
+  margin: -43px auto 0 auto;
 }
 
 //cards
