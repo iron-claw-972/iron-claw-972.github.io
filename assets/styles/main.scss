@@ -3,9 +3,9 @@
 
 //constants
 $white-color: #FFF;
-$main-image: url('/assets/img/team_2.jpg');
+$main-image: url('/assets/img/team_0.jpg');
 $about-image: url('/assets/img/team_1.jpg');
-$team-support-image: url('/assets/img/background.png');
+$team-support-image: url('/assets/img/team_2.jpg');
 $follow-image: url('/assets/img/team_3.jpg');
 $contact-image: url('/assets/img/team_4.jpg');
 $calendar-image: url('/assets/img/background_2.png');
@@ -13,7 +13,7 @@ $student-info-image: url('/assets/img/team_5.jpg');
 
 //backgrounds
 .main-background {
-  background: $main-image top / cover;
+  background: $main-image center / cover;
 }
 
 .about-background {
