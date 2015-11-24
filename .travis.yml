@@ -1,10 +1,15 @@
 language: ruby
 rvm:
-  - 2.2
+- 2.2
 cache: bundler
 script:
-  - bundle exec jekyll build
-  - bundle exec htmlproof ./_site --only-4xx --check-favicon # --check-html add back in once bug fixed
+- bundle exec jekyll build
+- bundle exec htmlproof ./_site --only-4xx --check-favicon # --check-html add back in once bug fixed
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+notifications:
+  slack:
+    on_success: always
+    on_failure: always
+    secure: sotmAfTRVhLX0sQo+lMU54ixfutspyhhYzo99FiwvdZ23N6d2xT7L6udoIHhrWBwcxRypbrk9c7us4HYOx1iXzyiyNlhQODUJ6VMWsKLxVPXvuVcrOV2lnW1x+Dv9ruYsF/2pQlAKoTcKg0tMp1F001YZhq5fBPSxD/R77ujwO19bRAahYw2annXTfV+C9EaWsnKg6JL224BH4mYmX2n/FaPFvJceaaL4J7qzVK59mn5hQuOlyoyOYMhXOdJ2druocz5xxKxe0S3/rfC/B9hbElxTU2A0UOzq6duOZy2m9hH63WPFZRjo3BPWiXTDUmjPfwh2Dc9Z5842/Mi24+1ua0/zjTlMqPc1j5BUI/6F40nHww8vvNJtQhAKMEK1D/DP0VAP75RwRYCNC6duZ7BCu2iN08tyKxPVJP3wqeXzDI7jyevVLql1BCK+LhpVBuDoXSndfHs7AlU19VfS4Zkr17zhTQYoKF+gsmFdLFfIZhzN3sT9H4lZ7XpXrJ4/ESY2Ta4bnyyJ5YS9sTZDR5T3/KgHGJXTs30m43GDMWQ7VKeqPr78L4MQm/ESuRZ6FRl8Bs8o4sKmexm8/SNwY/DHlz0xjSBqxRxlf0KLRgruZYv1raoAPo+/zYHZQRRe+GKOZI6PW9LvGhhlh4Bmd0hDBntprEMDg57vEmvvICbg1A=
