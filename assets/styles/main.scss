@@ -161,6 +161,9 @@ iframe {
   display: inline-block;
 }
 
+.season-dates-table {
+  resize: both; overflow: auto; width: 100%; height: 100%; }
+
 .content {
   flex: 1 1 auto;
   -webkit-flex: 1 1 auto;
