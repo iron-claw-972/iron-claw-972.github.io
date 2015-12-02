@@ -7,7 +7,7 @@ image: calendar-background
 
 ### Season Dates
 
-<div class="season-dates-table" style="resize:both">
+<div class="season-dates-table">
     <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp" style="width:100%">
       <tbody>
         <tr>
