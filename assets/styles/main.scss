@@ -11,6 +11,14 @@ $contact-image: url('/assets/img/team_4.jpg');
 $calendar-image: url('/assets/img/background_2.png');
 $student-info-image: url('/assets/img/team_5.jpg');
 $sponsors-image: url('/assets/img/background_2.png');
+$qualcomm-image: url('/assets/img/qualcomm.png');
+$nmf-image: url('/assets/img/nmf.png');
+$intuitive-image: url('/assets/img/intuitive.png');
+$bw-image: url('/assets/img/brinwojcicki.png');
+$ans-image: url('/assets/img/ans.png');
+$apinel-image: url('/assets/img/alainpinel.png');
+$ace-image: url('/assets/img/ace.png');
+$github-image: url('/assets/img/GitHub_Logo.png');
 
 //backgrounds
 .main-background {
@@ -176,4 +184,56 @@ iframe {
   -webkit-flex: 1 1 auto;
   justify-content: center;
   -webkit-justify-content: center;
+}
+
+.centered-heading {
+  text-align: center;
+}
+
+.gold-height {
+  height: 100px;
+}
+
+.silver-height {
+  height: 75px;
+}
+
+.bronze-height {
+  height: 50px;
+}
+
+.qualcomm {
+  background: $qualcomm-image no-repeat center / contain;
+}
+
+.nmf {
+  background: $nmf-image no-repeat center / contain;
+}
+
+.intuitive {
+  background: $intuitive-image no-repeat center / contain;
+}
+
+.bwf {
+  background: $bw-image no-repeat center / contain;
+}
+
+.ans {
+  background: $ans-image no-repeat center / contain;
+}
+
+.apinel {
+  background: $apinel-image no-repeat center / contain;
+}
+
+.ace {
+  background: $ace-image no-repeat center / contain;
+}
+
+.github {
+  background: $github-image no-repeat center / contain;
+}
+
+.center-grid {
+  margin: 10px auto;
 }
