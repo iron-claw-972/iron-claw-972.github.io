@@ -19,7 +19,6 @@ $ans-image: url('/assets/img/ans.png');
 $apinel-image: url('/assets/img/alainpinel.png');
 $ace-image: url('/assets/img/ace.png');
 $github-image: url('/assets/img/GitHub_Logo.png');
-$slack-image: url('/assets/img/slack.png');
 
 //backgrounds
 .main-background {
@@ -233,10 +232,6 @@ iframe {
 
 .github {
   background: $github-image no-repeat center / contain;
-}
-
-.slack {
-  background: $slack-image no-repeat center / contain;
 }
 
 .center-grid {
