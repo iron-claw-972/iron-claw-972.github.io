@@ -11,7 +11,7 @@ Saturday, 1/9: FRC Kickoff!
 
 Tuesday, 2/23: FRC Build Season Ends (Bag & Tag)
 
-Wednesday, 3/16 - Saturday, 3/19 [Utah Regional](http://www.utfrc.utah.edu)
+Thursday, 3/10 - Sunday, 3/13: [Central Valley Regional](http://www.cvrobotics.org/frc/regional/)
 
 Wednesday, 4/6 - Saturday, 4/9: [Silicon Valley Regional](http://www.firstsv.org/)
 
