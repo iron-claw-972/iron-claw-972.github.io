@@ -19,7 +19,7 @@ Wednesday, 4/6 - Saturday, 4/9: [Silicon Valley Regional](http://www.firstsv.org
 
 Thursday, 2/4 (6-9pm): Van Meter Elementary School Science Fair
 
-Thursday, 2/26 (6-8pm): Blossom Hill Elementary School Science Fair
+Friday, 2/26 (6-8pm): Blossom Hill Elementary School Science Fair
 
 If you are interested in a demonstration from Iron Claw, please [contact us](mailto:contact@ironclaw972.org).
 
