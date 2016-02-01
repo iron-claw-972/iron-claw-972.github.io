@@ -20,6 +20,8 @@ $apinel-image: url('/assets/img/alainpinel.png');
 $ace-image: url('/assets/img/ace.png');
 $github-image: url('/assets/img/GitHub_Logo.png');
 $gene-haas-image: url('/assets/img/GHF_Logo.gif');
+$home-depot-image: url('/assets/img/homedepot.jpg');
+$cadence-image: url('/assets/img/cadence.png');
 
 //backgrounds
 .main-background {
@@ -237,6 +239,14 @@ iframe {
 
 .ghf {
   background: $gene-haas-image no-repeat center / contain;
+}
+
+.home-depot {
+  background: $home-depot-image no-repeat center / contain;
+}
+
+.cadence {
+  background: $cadence-image no-repeat center / contain;
 }
 
 .center-grid {
