@@ -10,7 +10,6 @@ $follow-image: url('/assets/img/team_3.jpg');
 $contact-image: url('/assets/img/team_4.jpg');
 $calendar-image: url('/assets/img/background_2.png');
 $student-info-image: url('/assets/img/team_5.jpg');
-$sponsors-image: url('/assets/img/background_2.png');
 $qualcomm-image: url('/assets/img/qualcomm.png');
 $nmf-image: url('/assets/img/nmf.png');
 $intuitive-image: url('/assets/img/intuitive.png');
@@ -54,10 +53,6 @@ $cadence-image: url('/assets/img/cadence.png');
 
 .contact-info-background {
   background: $contact-image center / cover;
-}
-
-.sponsors-background {
-  background: $sponsors-image top / cover;
 }
 
 //heading
