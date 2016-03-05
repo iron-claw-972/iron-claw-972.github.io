@@ -21,6 +21,7 @@ $github-image: url('/assets/img/GitHub_Logo.png');
 $gene-haas-image: url('/assets/img/GHF_Logo.gif');
 $home-depot-image: url('/assets/img/homedepot.jpg');
 $cadence-image: url('/assets/img/cadence.png');
+$apple-image: url('/assets/img/apple.png');
 
 //backgrounds
 .main-background {
@@ -242,6 +243,10 @@ iframe {
 
 .cadence {
   background: $cadence-image no-repeat center / contain;
+}
+
+.apple {
+  background: $apple-image no-repeat center / contain;
 }
 
 .center-grid {
