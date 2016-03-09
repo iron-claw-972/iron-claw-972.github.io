@@ -21,10 +21,10 @@ Thursday, 2/4 (6-9pm): Van Meter Elementary School Science Fair
 
 Friday, 2/26 (6-8pm): Blossom Hill Elementary School Science Fair
 
+Saturday, 3/5 (5:30-7:30pm): New Millenium Gala
+
 If you are interested in a demonstration from Iron Claw, please [contact us](mailto:contact@ironclaw972.org).
 
 ### Meetings and Other Events
-
-Saturday, 12/19: [WRRF Workshops](http://wrrf.org)
 
 For dates of team meetings and other events, take a look at [our Google calendar]({{ site.calendar_link }}).
