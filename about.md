@@ -32,3 +32,7 @@ STEM within the Los Gatos community and to teach our members real-life STEM skil
 
 Our team's former website can still be found [here](http://losgatosmanufacturing.com/clubs/robotics_team.php).
 Our progress through the years can also be found at the [Blue Alliance](https://www.thebluealliance.com/team/972), a website that keeps team information, event results, and video from previous years for all FRC teams.
+
+## 2016 FRC Season
+
+Iron Claw's 2016 FRC Season was our team's inaugural season; our robot [Bismarck](https://youtu.be/fl9a5ol2dcI) participated in this year's [FIRST Stronghold](http://www.firstinspires.org/node/3651) competition, and competed in both Central Valley Regional and Silicon Valley Regional. At Silicon Valley Regional, we received a ranking of 25 out of 64 teams, which was very impressive for our team's first year. Everyone worked incredibly hard during both the build season and during the competitions and we were really happy with the results.
