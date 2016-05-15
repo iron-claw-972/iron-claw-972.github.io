@@ -3,13 +3,13 @@
 
 //constants
 $white-color: #FFF;
-$main-image: url('/assets/img/team_0.jpg');
-$about-image: url('/assets/img/team_1.jpg');
-$team-support-image: url('/assets/img/team_2.jpg');
-$follow-image: url('/assets/img/team_3.jpg');
-$contact-image: url('/assets/img/team_4.jpg');
-$calendar-image: url('/assets/img/background_2.png');
-$student-info-image: url('/assets/img/team_5.jpg');
+$main-image: url('/assets/img/2016_season/2016_team.jpg');
+$about-image: url('/assets/img/2016_season/2016_robot_bismarck.jpg');
+$team-support-image: url('/assets/img/2016_season/team_0.jpg');
+$follow-image: url('/assets/img/2016_season/team_1.jpg');
+$contact-image: url('/assets/img/2016_season/team_2.jpg');
+$calendar-image: url('/assets/img/2016_season/team_3.jpg');
+$student-info-image: url('/assets/img/2016_season/team_4.jpg');
 $qualcomm-image: url('/assets/img/qualcomm.png');
 $nmf-image: url('/assets/img/nmf.png');
 $intuitive-image: url('/assets/img/intuitive.png');
@@ -63,7 +63,7 @@ $apple-image: url('/assets/img/apple.png');
 }
 
 .heading-text {
-  padding: 20vh 0 40px 10vw;
+  padding: 10vh 0 40px 10vw;
   color: $white-color;
 }
 
@@ -108,7 +108,7 @@ $apple-image: url('/assets/img/apple.png');
 .card {
   .mdl-card__title {
     color: #fff;
-    height: 176px;
+    height: 250px; // previously 176px
   }
 
   .mdl-card__menu {
@@ -132,7 +132,7 @@ $apple-image: url('/assets/img/apple.png');
 
 .who-are-we {
   .mdl-card__title {
-    background: $about-image top / cover;
+    background: $about-image center / cover;
   }
 }
 
@@ -156,7 +156,7 @@ $apple-image: url('/assets/img/apple.png');
 
 .calendar {
   .mdl-card__title {
-    background: $calendar-image top / cover;
+    background: $calendar-image bottom / cover;
   }
 }
 
