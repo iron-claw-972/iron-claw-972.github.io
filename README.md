@@ -3,8 +3,9 @@
 ## Development
 
 To run the website, you need to have ruby installed.
+For OS X/macOS, you can use homebrew.
 
-Then run `bundle install` to install dependencies.
+Then run `gem install bundler` and `bundle install` to install dependencies.
 
 To serve this website, run `jekyll serve`. It will automatically
 rebuild the website whenever you change anything. You can then view
