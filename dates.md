@@ -7,19 +7,19 @@ image: calendar-background
 
 ### Season Dates
 
-Saturday 9/24 - Sunday 9/25: [Chezy Champs](https://chezychamps.com/)
+Saturday 9/24/16 - Sunday 9/25/16: [Chezy Champs](https://chezychamps.com/)
 
-Saturday, 1/7: FRC Kickoff!
+Saturday, 1/7/17: FRC Kickoff!
 
-Tuesday, 2/21: FRC Build Season Ends (Bag & Tag)
+Tuesday, 2/21/17: FRC Build Season Ends (Bag & Tag)
 
-Wednesday, 3/29 - Saturday, 4/1: [Silicon Valley Regional](http://www.firstsv.org/)
+Wednesday, 3/29/17 - Saturday, 4/1/17: [Silicon Valley Regional](http://www.firstsv.org/)
 
 Second Competition TBD
 
 ### Outreach
 
-Saturday, 11/19: Mensa Demonstration
+Saturday, 11/19/16: Mensa Demonstration
 
 If you are interested in a demonstration from Iron Claw, please [contact us](mailto:contact@ironclaw972.org).
 
