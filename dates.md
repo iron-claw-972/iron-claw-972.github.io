@@ -7,21 +7,19 @@ image: calendar-background
 
 ### Season Dates
 
-Saturday, 1/9: FRC Kickoff!
+Saturday 9/24/16 - Sunday 9/25/16: [Chezy Champs](https://chezychamps.com/)
 
-Tuesday, 2/23: FRC Build Season Ends (Bag & Tag)
+Saturday, 1/7/17: FRC Kickoff!
 
-Thursday, 3/10 - Sunday, 3/13: [Central Valley Regional](http://www.cvrobotics.org/frc/regional/)
+Tuesday, 2/21/17: FRC Build Season Ends (Bag & Tag)
 
-Wednesday, 4/6 - Saturday, 4/9: [Silicon Valley Regional](http://www.firstsv.org/)
+Wednesday, 3/29/17 - Saturday, 4/1/17: [Silicon Valley Regional](http://www.firstsv.org/)
+
+Second Competition TBD
 
 ### Outreach
 
-Thursday, 2/4 (6-9pm): Van Meter Elementary School Science Fair
-
-Friday, 2/26 (6-8pm): Blossom Hill Elementary School Science Fair
-
-Saturday, 3/5 (5:30-7:30pm): New Millenium Gala
+Saturday, 11/19/16: Mensa Demonstration
 
 If you are interested in a demonstration from Iron Claw, please [contact us](mailto:contact@ironclaw972.org).
 
