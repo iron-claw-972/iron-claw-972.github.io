@@ -39,4 +39,4 @@ Iron Claw's 2016 FRC Season was our team's inaugural season; our robot [Bismarck
 
 ## Robotics Class
 
-Iron Claw started off the 2016 school year by introducing Los Gatos High School's first-ever Robotics class. Students in the class have the opportunity to learn the fundamentals of robotics, including programming, electrical and mechanical skills, CAD, fundraising, and leadership. The class allows students to learn these invaluable skills in a classroom setting, while also preparing them for the upcoming FRC season. The elective is open to all students, and gives class students class credit to recognize them for their hard work. 
+Iron Claw started off the 2016 school year by introducing Los Gatos High School's first-ever Robotics class. Students in the class have the opportunity to learn the fundamentals of robotics, including programming, electrical and mechanical skills, CAD, fundraising, and leadership. The class allows students to learn these invaluable skills in a classroom setting, while also preparing them for the upcoming FRC season. The elective is open to all students, and it gives students class credit to recognize them for their hard work. 
