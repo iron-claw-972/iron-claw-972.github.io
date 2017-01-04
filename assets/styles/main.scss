@@ -21,7 +21,12 @@ $github-image: url('/assets/img/GitHub_Logo.png');
 $gene-haas-image: url('/assets/img/GHF_Logo.gif');
 $home-depot-image: url('/assets/img/homedepot.jpg');
 $cadence-image: url('/assets/img/cadence.png');
-$apple-image: url('/assets/img/apple.png');
+$baesystems-image: url('/assets/img/baesystems.png');
+$dod-image: url('/assets/img/dod.jpg');
+$kiwanis-image: url('/assets/img/kiwanis.gif');
+$nowandforever-image: url('/assets/img/nowandforever.png');
+$ponyexpress-image: url('/assets/img/ponyexpress.png');
+$lgsuhsd-image: url('/assets/img/lgsuhsd.png');
 
 //backgrounds
 .main-background {
@@ -245,8 +250,28 @@ iframe {
   background: $cadence-image no-repeat center / contain;
 }
 
-.apple {
-  background: $apple-image no-repeat center / contain;
+.baesystems {
+  background: $baesystems-image no-repeat center / contain;
+}
+
+.dod {
+  background: $dod-image no-repeat center / contain;
+}
+
+.kiwanis {
+  background: $kiwanis-image no-repeat center / contain;
+}
+
+.nowandforever {
+  background: $nowandforever-image no-repeat center / contain;
+}
+
+.ponyexpress {
+  background: $ponyexpress-image no-repeat center / contain;
+}
+
+.lgsuhsd {
+  background: $lgsuhsd-image no-repeat center / contain;
 }
 
 .center-grid {
