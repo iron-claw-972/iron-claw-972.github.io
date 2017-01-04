@@ -13,9 +13,9 @@ Saturday, 1/7/17: FRC Kickoff!
 
 Tuesday, 2/21/17: FRC Build Season Ends (Bag & Tag)
 
-Wednesday, 3/29/17 - Saturday, 4/1/17: [Silicon Valley Regional](http://www.firstsv.org/)
+Thursday, 3/9/17 - Sunday, 3/12/17: [Central Valley Regional](https://www.cvrobotics.org/frc/regional/)
 
-Second Competition TBD
+Wednesday, 3/29/17 - Saturday, 4/1/17: [Silicon Valley Regional](http://www.firstsv.org/)
 
 ### Outreach
 
