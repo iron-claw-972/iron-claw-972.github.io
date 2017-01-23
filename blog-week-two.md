@@ -5,7 +5,7 @@ permalink: blog/
 image: student-info-background
 ---
 
-## Build Season: Week Two
+## Week Two: Build Season
 
 It’s officially week two of build season, and we switch gears from deciding on which robot to build to actually starting to design and fabricate the robot we’ve designed. Programmers have begun programming basic code, such as our drive code, and have been assigning roles to certain electrical parts and mechanisms. Our mechanical team is currently using CAD (Computer Aided Design) to design our robot digitally.
 
