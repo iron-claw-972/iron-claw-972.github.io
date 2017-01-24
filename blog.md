@@ -18,7 +18,7 @@ Ben Coe designs a gear-manipulating mechanism
 
 <img src="/assets/img/ben_cadding.JPG" alt="Ben Coe designs a gear-manipulating mechanism" class="picture-height"/>
 
-We’ve decided to use a West Coast (or tank) drive train on our robot, using two joysticks to control it. Our mechanical team continues to finalize prototypes, and we are now perfecting mechanisms we wish to use on our final robot. The CAD team is deciding how these systems will be placed on our robot so we have optimal mobility and minimal weight. Various CADed" robot ideas will be finalized this week and we will have a roughly completed CAD of our robot by the end of this Saturday, 1/21/17.
+We’ve decided to use a West Coast (or tank) drive train on our robot, using two joysticks to control it. Our mechanical team continues to finalize prototypes, and we are now perfecting mechanisms we wish to use on our final robot. The CAD team is deciding how these systems will be placed on our robot so we have optimal mobility and minimal weight. Various CADed robot ideas will be finalized this week and we will have a roughly completed CAD of our robot by the end of this Saturday, 1/21/17.
 
 Justin Quan programs the IMU (inertial measurement unit) on our robot used for testing (the kitbot)
 
