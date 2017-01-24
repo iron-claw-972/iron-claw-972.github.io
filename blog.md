@@ -5,7 +5,7 @@ permalink: blog/
 image: student-info-background
 ---
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="two">Week 2</a></h3>
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a></h3>
 
 <h2><a name="two">Week Two: Build Season</a></h2>
 
