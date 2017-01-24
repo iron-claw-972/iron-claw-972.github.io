@@ -5,8 +5,9 @@ permalink: blog/
 image: student-info-background
 ---
 
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="two">Week 2</a></h3>
 
-## Week Two: Build Season
+<h2><a name="two">Week Two: Build Season</a></h2>
 
 It’s officially week two of build season, and we've switched gears (no pun intended) from deciding which robot to build to actually designing and fabricating our robot. Programmers have begun programming basic code, such as our drive code, and have been assigning roles to certain electrical parts and mechanisms. Our mechanical team continues to use CAD (Computer Aided Design) to design our robot digitally.
 
@@ -31,11 +32,9 @@ Talal Sohail closely investigates the electronics on our kitbot
 
 The programmers have begun writing basic drive code, vision/camera code, imputing values for joystick buttons and sensors, and testing programming techniques like toggle code to use in the upcoming weeks of build season. The programming team, along with the mechanical team, has been using the kitbot (our practice robot) to test various codes and mechanisms. The mechanical team uses the kitbot to test pneumatic systems for our finalized and sophisticated prototypes, while the programmers use it to test their drive code, camera code, and sensors. The electrical team is working closely with the programming team to test new sensors and to ensure we know how we’re going to use them on our final robot.
 
+<hr />
 
-
-
-
-## Week One: Kickoff Week!
+<h2><a name="one">Week One: Kickoff Week!</a></h2>
 
 This is the first of six weeks in build season, which is the period we have to design, program, build, and test our robot for competition. We made several prototypes of potential mechanisms our robot could have to compete effectively in the game, including a low goal shooter, high goal shooter, fuel and gear intakes, gear manipulator, and rope climber.
 
