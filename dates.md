@@ -21,6 +21,8 @@ Wednesday, 3/29/17 - Saturday, 4/1/17: [Silicon Valley Regional](http://www.firs
 
 Saturday, 11/19/16: Mensa Demonstration
 
+Friday, 3/3/17: Blossom Hill Science Fair Demo
+
 If you are interested in a demonstration from Iron Claw, please [contact us](mailto:contact@ironclaw972.org).
 
 ### Meetings and Other Events
