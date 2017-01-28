@@ -5,7 +5,31 @@ permalink: blog/
 image: student-info-background
 ---
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a></h3>
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a></h3>
+
+<h2><a name="three">Week Three: Build Season</a></h2>
+
+As Week 3 comes to an end, the team has nearly completed prototyping and CAD, and is now preparing to assemble mechanisms for our final robot. By testing using our recently-made prototypes, we have made design changes to ensure the optimal integration of mechanisms and overall efficiency of this year's robot.
+
+Isabella Gueth drills a hole in an aluminum block.
+
+<img src="/assets/img/isabella_working.jpeg" alt="Isabella Gueth showing her excitement for this year's competition!" class="picture-height"/>
+
+Quentin Leon explores possibilities of vision and PID programming.
+
+<img src="/assets/img/quentin-programming.jpeg" alt="Quentin Leon explores possibilities of vision and PID programming" class="picture-height"/>
+
+Programmers are currently using our kitbot, a basic practice bot, to test code for the final robot. The programmers have started work on PID, which is a control loop feedback mechanism which corrects minor errors in movement inherent to the system to allow for more precise alignment and shooting. The programmers also intend to use a gyro and accelerometer on this year's robot, allowing the robot to simply drive or shoot to a certain distance based on an angle input into the code. This allows for a reliable programming plan for the intense 15-second autonomous period in the start of the match.
+
+Harrison Van Der Walt and Jacob Snyder machining prototype parts
+
+<img src="/assets/img/harrison-machining.jpeg" alt="Harrison Van Der Walt and Jacob Snyder machining prototype parts" class="picture-height"/>
+
+The CAD team is finishing up the CAD for our robot. For the past week, the design team have been working non-stop and have been teaching new members CAD to contribute to the final design of our robot. Team leads have been busy ordering and buying essential materials. With your generous donations, we’ve bought nearly everything we need for our custom electrical board, sufficient metal to construct the robot, and various other components necessary to our robot’s design.
+
+Thank you all for your generous donations that have allowed us to build not only our robot, but also our team!
+
+<img src="/assets/img/blue-light.jpeg" alt="Thank you all for your generous donations that have allowed us to build not only our robot, but also our team" class="picture-height"/>
 
 <h2><a name="two">Week Two: Build Season</a></h2>
 
