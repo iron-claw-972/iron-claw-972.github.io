@@ -11,9 +11,9 @@ image: student-info-background
 
 As Week 3 comes to an end, the team has nearly completed prototyping and CAD, and is now preparing to assemble mechanisms for our final robot. By testing using our recently-made prototypes, we have made design changes to ensure the optimal integration of mechanisms and overall efficiency of this year's robot.
 
-Isabella Gueth drills a hole in an aluminum block.
+Isabella Gueth welds for the first time!
 
-<img src="/assets/img/isabella_working.jpeg" alt="Isabella Gueth showing her excitement for this year's competition!" class="picture-height"/>
+![Isabella Gueth welding](/assets/img/isabella_welding.gif)
 
 Quentin Leon explores possibilities of vision and PID programming.
 
@@ -21,7 +21,7 @@ Quentin Leon explores possibilities of vision and PID programming.
 
 Programmers are currently using our kitbot, a basic practice bot, to test code for the final robot. The programmers have started work on PID, which is a control loop feedback mechanism which corrects minor errors in movement inherent to the system to allow for more precise alignment and shooting. The programmers also intend to use a gyro and accelerometer on this year's robot, allowing the robot to simply drive or shoot to a certain distance based on an angle input into the code. This allows for a reliable programming plan for the intense 15-second autonomous period in the start of the match.
 
-Harrison Van Der Walt and Jacob Snyder machining prototype parts
+Harrison Van Der Walt and Jacob Snyder machining prototype parts.
 
 <img src="/assets/img/harrison-machining.jpeg" alt="Harrison Van Der Walt and Jacob Snyder machining prototype parts" class="picture-height"/>
 
