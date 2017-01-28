@@ -9,7 +9,7 @@ image: student-info-background
 
 <h2><a name="three">Week Three: Build Season</a></h2>
 
-As Week 3 comes to an end, the team has nearly completed prototyping and CAD, and are now preparing to assemble mechanisms for our robot. As a result of our findings from our recent prototypes, we have made design changes to ensure the best integration of mechanisms and overall efficiency of our robot.
+As Week 3 comes to an end, the team finalizes prototyping and CAD, and are now preparing to assemble the mechanisms for this year's robot. By using recent data from our prototypes, we have made several design changes to ensure the best integration of individual mechanisms to improve the overall efficiency of our robot.
 
 Isabella Gueth drills a hole in an aluminum block.
 
@@ -19,13 +19,13 @@ Quentin Leon explores possibilities of vision and PID programming.
 
 <img src="/assets/img/quentin-programming.jpeg" alt="Quentin Leon explores possibilities of vision and PID programming" class="picture-height"/>
 
-Programmers are currently using last years robot, Bismarck, as well as our kitbot, a basic practice bot, to test both advanced and basic code. The programmers have started learning “PID” (Proportional Integral Derivative) which allows the robot to be stable and not drift terribly off track when performing tasks such as driving, shooting fuel, or moving obstacles. The programmers also intend to use a gyro and accelerometer this year, which allows the robot to simply drive or shoot to a certain distance based on an angle input into the code. This allows for a reliable programming plan for the 15-second autonomous period of the match.
+Programmers are currently using last years robot, Bismarck, as well as our kitbot, a basic practice bot, to test both advanced and basic code. The programmers have started learning “PID” (Proportional Integral Derivative), which allows the robot to resist the force of other robots and to follow a precise track when performing tasks such as driving, shooting fuel, or moving obstacles. The programmers also intend to use a more accurate gyro and accelerometer this year, which allows the robot to simply drive or shoot to a certain distance based on an angle input into the code. This allows for a reliable programming plan for the intense 15-second autonomous period which starts the match.
 
 Harrison Van Der Walt and Jacob Snyder machining prototype parts
 
 <img src="/assets/img/harrison-machining.jpeg" alt="Harrison Van Der Walt and Jacob Snyder machining prototype parts" class="picture-height"/>
 
-The CAD team is finishing up the CAD for our robot. For the past week, the design team have been working non-stop and have been teaching new members CAD to contribute to the final design of our robot. Team leads have been busy ordering and buying essential materials. With your generous donations, we’ve bought nearly everything we need for our custom electrical board, a heaping load of metal to construct the robot, wheels, and more components that are necessary to our robot’s design.
+The CAD team is finishing up the CAD for our robot. For the past week, the design team have been working non-stop in teaching new members CAD to contribute to the final design of our robot. Team leads have been busy ordering and buying essential materials. With your generous donations, we’ve bought nearly everything we need for our custom electrical board, a heaping load of metal to construct the robot, wheels, and other components that are necessary to our robot’s design.
 
 Thank you all for your generous donations that have allowed us to build not only our robot, but also our team
 
