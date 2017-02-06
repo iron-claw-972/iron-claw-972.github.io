@@ -5,7 +5,29 @@ permalink: blog/
 image: student-info-background
 ---
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a></h3>
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a></h3> -- <a href="#four">Week 4</a></h3>
+
+<h2><a name="four">Week Four: Build Season</a></h2>
+
+We are over half way done with build season, and fortunately, we have made a lot of progress. The CAD team has finished the CAD, and is now just adding final touches to the design. The programmers are continuing to learn and practice advanced forms of code, and are now preparing code for our newly-built electrical board.
+
+Paul Rubino adds finishing touches to the CAD
+
+<img src="/assets/img/paul-cadding.jpeg" alt="Paul Rubino adds finishing touches to the CAD" class="picture-height"/>
+
+Our mechanical team has all the metal necessary to build our bot prepared, and is waiting on the prototype team to tweak and perfect the completed designs. The CAD team has completed the CAD since last week, and is currently adding minor additions such as screws and bolts to the picture. They are also going through useful and critical processes of stress analysis. In Autodesk Inventor, the CAD Software, they are utilizing a built-in tool to measure which parts of the robot may be experiencing the most tension and stress, to determine components that could break during competition. After measuring the stressed areas, they must fix them to be more relaxed so if the robot experiences any bouncing and bumping while driving, it will be sturdy enough to prevent severe damage. The stress analysis feature takes into account force, static structure, and pressure of or around the robot. Our robot chassis has been built, and through that, the programming team is able to test code that fits our robot’s design.
+
+Gautam Prabhu teaches other members how to place the wheels onto the chassis with the newly-broached sprockets
+
+<img src="/assets/img/group-drivetrain.jpeg" alt="Gautam Prabhu teaches other members how to place the wheels onto the chassis with the newly-broached sprockets" class="picture-height"/>
+
+The programming team has begun testing the drive code on the actual chassis. Knowing the size and weight of the robot through the CAD, and now the physical chassis, the programmers have received a better idea of the values needed for the speed controllers, IMU, PID, and more. The electrical team has started wiring the final electrical board, and is regulating where wires may be organized in accordance with the chassis. While the robot’s CAD was still being designed, our team members took accessibility of the electrical board into account, and it currently lays flat on our robot’s chassis under the superstructure.
+
+Ben Coe teaches underclassmen how to use the lathe 
+
+<img src="/assets/img/ben-cadding.jpeg" alt="Ben Coe teaches underclassmen how to use the lathe" class="picture-height"/>
+
+By next week, we hope to have completed our superstructure. We wish to reserve our last week for practice driving, as we want non-veteran members to be participants of our drive team this year.
 
 <h2><a name="three">Week Three: Build Season</a></h2>
 
