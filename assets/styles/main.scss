@@ -27,6 +27,7 @@ $kiwanis-image: url('/assets/img/kiwanis.gif');
 $nowandforever-image: url('/assets/img/nowandforever.png');
 $ponyexpress-image: url('/assets/img/ponyexpress.png');
 $lgsuhsd-image: url('/assets/img/lgsuhsd.png');
+$cambrian-image: url('/assets/img/cambrian.jpg');
 
 //backgrounds
 .main-background {
@@ -272,6 +273,10 @@ iframe {
 
 .lgsuhsd {
   background: $lgsuhsd-image no-repeat center / contain;
+}
+
+.cambrian {
+  background: $cambrian-image no-repeat center / contain;
 }
 
 .center-grid {
