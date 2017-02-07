@@ -9,19 +9,19 @@ image: student-info-background
 
 <h2><a name="four">Week Four: Build Season</a></h2>
 
-We are over half way done with build season, and fortunately, we have made a lot of progress. The CAD team has finished the CAD, and is now just adding final touches to the design. The programmers are continuing to learn and practice advanced forms of code, and are now preparing code for our newly-built electrical board.
+We are over half way done with build season, and we have made a lot of progress. The CAD team has finished the CAD, and is adding final touches to the design. The programmers are continuing to learn and practice advanced forms of code, and are now preparing code for our newly-built electrical board.
 
 Paul Rubino adds finishing touches to the CAD
 
 <img src="/assets/img/paul-cadding.jpeg" alt="Paul Rubino adds finishing touches to the CAD" class="picture-height"/>
 
-Our mechanical team has all the metal necessary to build our bot prepared, and is waiting on the prototype team to tweak and perfect the completed designs. The CAD team has completed the CAD since last week, and is currently adding minor additions such as screws and bolts to the picture. They are also going through useful and critical processes of stress analysis. In Autodesk Inventor, the CAD Software, they are utilizing a built-in tool to measure which parts of the robot may be experiencing the most tension and stress, to determine components that could break during competition. After measuring the stressed areas, they must fix them to be more relaxed so if the robot experiences any bouncing and bumping while driving, it will be sturdy enough to prevent severe damage. The stress analysis feature takes into account force, static structure, and pressure of or around the robot. Our robot chassis has been built, and through that, the programming team is able to test code that fits our robot’s design.
+Our mechanical team has acquired all of the metal necessary to build our bot, and we are waiting on the prototype team to tweak and perfect the completed designs. The CAD team has completed the CAD since last week, and is currently adding minor additions such as screws and bolts to the design. They are also going through the useful and critical processes of stress analysis. In Autodesk Inventor, the CAD Software, they are utilizing a built-in tool to measure which parts of the robot may be experiencing the most tension and stress, to determine components that are mostly likely break during competition. After measuring the stressed portions, the team adds extra support to the vulnerable areas in case the robot experiences any bouncing and bumping while driving. The stress analysis feature takes into account force, static structure, and pressure of or around the robot. Our robot chassis has been built, and through that, the programming team is able to test code that fits our robot’s design.
 
 Gautam Prabhu teaches other members how to place the wheels onto the chassis with the newly-broached sprockets
 
 <img src="/assets/img/group-drivetrain.jpeg" alt="Gautam Prabhu teaches other members how to place the wheels onto the chassis with the newly-broached sprockets" class="picture-height"/>
 
-The programming team has begun testing the drive code on the actual chassis. Knowing the size and weight of the robot through the CAD, and now the physical chassis, the programmers have received a better idea of the values needed for the speed controllers, IMU, PID, and more. The electrical team has started wiring the final electrical board, and is regulating where wires may be organized in accordance with the chassis. While the robot’s CAD was still being designed, our team members took accessibility of the electrical board into account, and it currently lays flat on our robot’s chassis under the superstructure.
+The programming team has begun testing the drive code on the actual chassis. Knowing the size and weight of the robot through the CAD, and now the physical chassis, the programmers have received a better idea of the values needed for the speed controllers, IMU, PID, and more. The electrical team has started wiring the final electrical board, and is regulating where wires may be organized in accordance to the chassis. While the robot’s CAD was still being designed, our team members took the accessibility of the electrical board into account, so it currently lays flat on our robot’s chassis under the superstructure.
 
 Ben Coe teaches underclassmen how to use the lathe 
 
