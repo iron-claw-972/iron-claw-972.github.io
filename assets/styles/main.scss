@@ -28,6 +28,10 @@ $nowandforever-image: url('/assets/img/nowandforever.png');
 $ponyexpress-image: url('/assets/img/ponyexpress.png');
 $lgsuhsd-image: url('/assets/img/lgsuhsd.png');
 $cambrian-image: url('/assets/img/cambrian.jpg');
+$plethora-image: url('/assets/img/plethora.svg');
+$saphotonics-image: url('/assets/img/saphotonics.png');
+$atg-image: url('/assets/img/atg.png');
+$nvidia-image: url('/assets/img/nvidia.png');
 
 //backgrounds
 .main-background {
@@ -277,6 +281,22 @@ iframe {
 
 .cambrian {
   background: $cambrian-image no-repeat center / contain;
+}
+
+.plethora {
+  background: $plethora-image no-repeat center / contain;
+}
+
+.saphotonics {
+  background: $saphotonics-image no-repeat center / contain;
+}
+
+.atg {
+  background: $atg-image no-repeat center / contain;
+}
+
+.nvidia {
+  background: $nvidia-image no-repeat center / contain;
 }
 
 .center-grid {
