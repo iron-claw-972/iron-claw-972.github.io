@@ -5,7 +5,35 @@ permalink: blog/
 image: student-info-background
 ---
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a></h3>
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a></h3>
+
+<h2><a name="five">Week Five: Build Season</a></h2>
+
+We are nearing the end of build season, and have completed the fully functional chassis and drive train. We plan to get our super structure done next week, and hopefully get some driving practice in as well.
+
+Alex Lee grabs materials from the robotics cart to work on mechanical.
+
+<img src="/assets/img/alex-cart.jpeg" alt="Alex Lee grabs materials from the robotics cart holding last year’s robot" class="picture-height"/>
+
+Our super structure is going to mainly consist of a hopper to hold fuel, an intake system that leads 5 fuel balls at a time into the hopper, and a high goal shooter. We also have a very simple gear manipulator that we plan to use during the autonomous mode of the competition. We have decided on the high goal shooter because it is the most efficient way to gain points, as well as the most compatible alliance partner, considering most teams plan on having gear-focused robots.
+
+Andy Sheu elaborates on programming ideas with his computer and the whiteboard.
+
+<img src="/assets/img/andy-programming.jpeg" alt="Andy Sheu elaborates on programming ideas with his computer and the whiteboard." class="picture-height"/>
+
+Programmers have nearly finished the autonomous program of the robot. We plan to have our robot drive forward, place a gear into the airship with a passive gear system, and turn around to possibly shoot a ball into a boiler, all without any of the drive team putting their hands on the drive station. The electrical team has completed the electrical board and we can place it on the robot conveniently under the hopper for easy access if we need to fix an electrical issue in between matches at competition. Our electrical board is labeled and the wires are organized and grouped together with zip ties to maximize the amount of space saved in the robot, as well as convenience to anyone trying to fix it.
+
+Justin Quan closely investigates the electrical board on our new robot’s chassis.
+
+<img src="/assets/img/justin-electrical.jpeg" alt="Justin Quan closely investigates the electrical board on our new robot’s chassis." class="picture-height"/>
+
+As a precaution we may be designing a backup plan to enact in case our high goal shooter fails. A proposition for this include a passive gear system. However, we are more likely to continue in our current endeavor than divert our focus on this secondary plan. By the end of week six we hope to finish our hopper, intake, shooter, and climber.
+
+Brian Cruz strips and crimps wires to be put on the final electrical board.
+
+<img src="/assets/img/brian-electrical.jpeg" alt="Brian Cruz strips and crimps wires to be put on the final electrical board." class="picture-height"/>
+
+To inspire the next generation of engineers we will be exhibiting last year’s robot at a local elementary school’s science fair. We hope that this will spark the creativity and imagination of these kids reminding them that with a bit of time, teamwork, determination, and amazing mentors they can accomplish something just as revolutionary as robots, if not more. When they see this robot we hope they will join robotics and take an interest in our society’s future.
 
 <h2><a name="four">Week Four: Build Season</a></h2>
 
