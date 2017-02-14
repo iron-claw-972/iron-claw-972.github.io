@@ -33,7 +33,7 @@ Brian Cruz strips and crimps wires to be put on the electrical board
 
 <img src="/assets/img/brian_crimping.jpeg" alt="Brian Cruz strips and crimps wires to be put on the electrical board" class="picture-height"/>
 
-Admist the build season frenzy, we will be exhibiting last year’s robot at a local elementary school’s science fair to inspire the next generation of engineers. We hope that this will spark the creativity and imagination of these younger students, and that we will demonstrate how with a bit of time, teamwork, determination, and amazing mentors they can accomplish anything. When they see this robot we hope they will join robotics and take an interest in STEM.
+Amidst the build season frenzy, we will be exhibiting last year’s robot at a local elementary school’s science fair to inspire the next generation of engineers. We hope that this will spark the creativity and imagination of these younger students, and that we will demonstrate how with a bit of time, teamwork, determination, and amazing mentors they can accomplish anything. When they see this robot we hope they will join robotics and take an interest in STEM.
 <hr />
 
 <h2><a name="four">Week Four: Build Season</a></h2>
