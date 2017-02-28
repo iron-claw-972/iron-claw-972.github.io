@@ -31,7 +31,7 @@ The electrical team completed the electrical board this week, and are now helpin
 
 Brian Cruz guides a new member in mounting the final electrical board onto the chassis. 
 
-<img src="/assets/img/sejal_mechanical.JPG" alt="Brian Cruz guides a new member in mounting the final electrical board onto the chassis. "/>
+<img src="/assets/img/sejal_mechanical.JPG" alt="Brian Cruz guides a new member in mounting the final electrical board onto the chassis. " class="picture-height"/>
 
 <hr />
 
