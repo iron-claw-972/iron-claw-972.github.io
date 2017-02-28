@@ -5,7 +5,35 @@ permalink: blog/
 image: student-info-background
 ---
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a></h3>
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a> -- <a href="#six">Week 6</a></h3>
+
+<h2><a name="six">Week 6: Last Week of Build Season!</a></h2>
+
+Now that it’s the last week of build season, we are rushing to finish our robot. We are machining the last parts of our shooter, gear mechanism, and the shooter feeder. The electrical board is completed and mounted onto our drive base, and the superstructure consisting of all our mechanisms has yet to be completed and mounted on top of the drive base. Programmers are continuing to work on PID and vision, and the shooter code now has 75% to 80% accuracy whilst shooting fuel into the boiler.
+
+Our shooter prototype testing recently-programmed vision and PID.
+
+![High Goal Shooter Vision Test](/assets/img/shooter.gif)
+
+The mechanical team has completed the intake system and the hopper this week, and is now machining final parts to complete the shooter, shooter intake, shooter feeder, and gear mechanisms. Several of our machinists are unable to show up, so we have 3D printed gears, sprockets, and the shooter adjuster rather than CNC machining them. Instead of rebuilding them or buying more, we are reusing hex collars, a 100:1 gearbox, and a pneumatic valve from last year’s robot, Bismarck. Our mechanical leads, who were able to show up, are also working on welding and CNC machining (computer numeric control machining) brackets for our robot signal light, or RSL. The RSL indicates whether our robot is on, enabled, or off. The hopper, made out of poly carbonate, is designed to hold approximately 55 balls. While the hopper itself is completed, we must also incorporate the shooter feeder into it’s design. The shooter feeder consists of two brushes facing vertically upwards that feeds balls from the hopper into the shooter one ball at a time. The mechanical team is working on building the feeder from VEX parts, and mounting the feeder onto the hopper by the very end of this week.
+
+Jake Caligiuri overlooks the 3D printer printing sprockets.
+
+<img src="/assets/img/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+
+Vision programmers have been working on networking with the Jetson TX1 and motion profiling with the IMU. Both have allowed for our shooter’s accuracy to increase to 80%. Other programmers, working on PID, strive to raise this percentage. Because, not all mechanisms have been completed, the programmers have been testing and deploying code onto prototypes that the mechanical team has completed last week. These cheap, yet functional prototypes are built as similarly in size and shape to the real mechanisms by reflecting the CAD. Hence, the code can be finalized with the needed measurements of the robot, such as distances and proportions.
+
+Programmers test shooter code deployed onto the prototype shooter.
+
+<img src="/assets/img/andy_program.JPG" alt="Programmers test shooter code deployed onto the prototype shooter." class="picture-height"/>
+
+The electrical team completed the electrical board this week, and are now helping out in both mechanical and programming. At first, there were issues with wire lengths, and several wires had to be spliced and lengthened so they could reach motors from the electrical board. After soldering wires together to lengthen them, the splices were covered in heat shrink to smooth out the wire as a whole. The lengthened wires allowed for easy connection from mechanisms to the electrical board, and with this, the board was finished.
+
+Brian Cruz guides a new member in mounting the final electrical board onto the chassis. 
+
+<img src="/assets/img/sejal_mechanical.JPG" alt="Brian Cruz guides a new member in mounting the final electrical board onto the chassis. "/>
+
+<hr />
 
 <h2><a name="five">Week 5: Build Season</a></h2>
 
@@ -102,7 +130,6 @@ Justin Quan programs the IMU (inertial measurement unit) on our robot used for t
 
 <img src="/assets/img/justin_programming.JPG" alt="Justin Quan attempts to program the IMU (inertial measurement unit) on our robot used for testing (the kitbot)" class="picture-height"/>
 
-
 Talal Sohail closely investigates the electronics on our kitbot
 
 <img src="/assets/img/talal_electrical.JPG" alt="Talal Sohail closely investigates the electronics on our kitbot" class="picture-height"/>
@@ -111,7 +138,7 @@ The programmers have begun writing basic drive code, vision/camera code, imputin
 
 <hr />
 
-<h2><a name="one">Week One: Kickoff Week!</a></h2>
+<h2><a name="one">Week 1: Kickoff Week!</a></h2>
 
 This is the first of six weeks in build season, which is the period we have to design, program, build, and test our robot for competition. We made several prototypes of potential mechanisms our robot could have to compete effectively in the game, including a low goal shooter, high goal shooter, fuel and gear intakes, gear manipulator, and rope climber.
 
