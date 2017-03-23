@@ -33,6 +33,13 @@ $saphotonics-image: url('/assets/img/saphotonics.png');
 $atg-image: url('/assets/img/atg.png');
 $nvidia-image: url('/assets/img/nvidia.png');
 
+//custom fonts
+
+@font-face {
+   font-family: bladeRunner;
+   src: url(bladeRunner.ttf);
+}
+
 //backgrounds
 .main-background {
   background: $main-image center / cover;
