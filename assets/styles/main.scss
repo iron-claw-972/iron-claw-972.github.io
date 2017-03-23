@@ -86,9 +86,11 @@ $nvidia-image: url('/assets/img/nvidia.png');
 }
 
 .heading-title {
+    padding: 0vh 0 10px 0vw;
   margin-bottom: 10px;
   line-height: 1;
   color: $white-color;
+  font-family: bladeRunner;
 }
 
 .heading-tagline {
@@ -96,23 +98,23 @@ $nvidia-image: url('/assets/img/nvidia.png');
   line-height: 1;
 }
 
-@media all and (min-width: 360px) {
+@media all and (min-width: 380px) {
   .heading-title {
-    font-size: 6em;
+    font-size: 4.5em;
   }
 
   .heading-tagline {
-    font-size: 1.5em;
+    font-size: 2em;
   }
 }
 
-@media all and (max-width: 359px) {
+@media all and (max-width: 379px) {
   .heading-title {
     font-size: 3em;
   }
 
   .heading-tagline {
-    font-size: 1em;
+    font-size: 1.5em;
   }
 }
 
