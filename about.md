@@ -34,7 +34,7 @@ Our progress through the years can also be found at the [Blue Alliance](https://
 
 ## 2016 FRC Season
 
-<img src="/assets/img/2016_season/2016_robot_bismarck.JPG" alt="Bismarck" class="picture-height"/>
+<img src="/assets/img/2016_season/2016_robot_bismarck.jpg" alt="Bismarck" class="picture-height"/>
 
 Iron Claw's 2016 FRC Season was our team's inaugural season; our robot [Bismarck](https://youtu.be/fl9a5ol2dcI) participated in [FIRST Stronghold](https://youtu.be/VqOKzoHJDjA) competition, and competed in both Central Valley Regional and Silicon Valley Regional. At Silicon Valley Regional, we received a ranking of 25 out of 64 teams, which was very impressive for our team's first year. Everyone worked incredibly hard during both the build season and during the competitions and we were really happy with the results.
 
