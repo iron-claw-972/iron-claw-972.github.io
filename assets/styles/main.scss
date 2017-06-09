@@ -5,10 +5,10 @@
 $white-color: #FFF;
 $main-image: url('/assets/img/2017_season/2017_team.JPG');
 $about-image: url('/assets/img/2017_season/team_5.jpg');
-$team-support-image: url('/assets/img/2017_season/team_0.jpg');
+$team-support-image: url('/assets/img/2017_season/team_6.jpg');
 $follow-image: url('/assets/img/2017_season/team_1.jpg');
 $contact-image: url('/assets/img/2017_season/team_2.jpg');
-$calendar-image: url('/assets/img/2017_season/team_6.jpg');
+$calendar-image: url('/assets/img/2017_season/team_0.jpg');
 $student-info-image: url('/assets/img/2017_season/team_4.JPG');
 $qualcomm-image: url('/assets/img/2016_sponsors/qualcomm.png');
 $nmf-image: url('/assets/img/2017_sponsors/nmf.png');
@@ -50,7 +50,7 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
 }
 
 .team-support-background {
-  background: $team-support-image top / cover;
+  background: $team-support-image bottom / cover;
 }
 
 .follow-background {
@@ -62,7 +62,7 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
 }
 
 .calendar-background {
-  background: $calendar-image top / cover;
+  background: $calendar-image bottom / cover;
 }
 
 .student-info-background {
@@ -91,11 +91,13 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
   line-height: 1;
   color: $white-color;
   font-family: bladeRunner;
+  text-shadow: 2px 2px #000000;
 }
 
 .heading-tagline {
   margin-left: 5vw;
   line-height: 1;
+  text-shadow: 2px 2px #000000;
 }
 
 @media all and (min-width: 380px) {
@@ -158,7 +160,7 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
 
 .team-support {
   .mdl-card__title {
-    background: $team-support-image top / cover;
+    background: $team-support-image bottom / cover;
   }
 }
 
@@ -176,7 +178,7 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
 
 .calendar {
   .mdl-card__title {
-    background: $calendar-image bottom / cover;
+    background: $calendar-image top / cover;
   }
 }
 
