@@ -5,7 +5,7 @@ permalink: about/
 image: about-background
 ---
 
-## Who are we?
+## About Us
 
 Iron Claw is a [First Robotics Competition (FRC)](http://www.firstinspires.org/robotics/frc) team run by the Los
 Gatos High School Robotics Club. This is the team's second year at LGHS after being restarted. We look forward to
