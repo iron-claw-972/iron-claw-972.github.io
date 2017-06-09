@@ -40,7 +40,7 @@ Iron Claw's 2016 FRC Season was our team's inaugural season; our robot [Bismarck
 
 ## 2017 FRC Season
 
-<img src="/assets/img/2017_season/rockefeller.JPG" alt="Rockefeller" class="picture-height"/>
+<img src="/assets/img/2017_season/rockefeller.jpg" alt="Rockefeller" class="picture-height"/>
 
 The 2017 FRC Season was our team's second season; our robot Rockefeller participated in this year's [FIRST STEAMworks](https://www.youtube.com/watch?v=EMiNmJW7enI) competition, and competed in both Central Valley Regional and Silicon Valley Regional. At Silicon Valley Regional, we were selected as the first pick of the 8th seeded alliance and made it into the quarterfinals.
 
