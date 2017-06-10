@@ -32,17 +32,7 @@ STEM within the Los Gatos community and to teach our members real-life STEM skil
 Our team's former website can still be found [here](http://losgatosmanufacturing.com/clubs/robotics_team.php).
 Our progress through the years can also be found at the [Blue Alliance](https://www.thebluealliance.com/team/972), a website that keeps team information, event results, and video from previous years for all FRC teams.
 
-## 2016 FRC Season
-
-<img src="/assets/img/2016_season/2016_robot_bismarck.jpg" alt="Bismarck" class="picture-height"/>
-
-Iron Claw's 2016 FRC Season was our team's inaugural season; our robot [Bismarck](https://youtu.be/fl9a5ol2dcI) participated in [FIRST Stronghold](https://youtu.be/VqOKzoHJDjA) competition, and competed in both Central Valley Regional and Silicon Valley Regional. At Silicon Valley Regional, we received a ranking of 25 out of 64 teams, which was very impressive for our team's first year. Everyone worked incredibly hard during both the build season and during the competitions and we were really happy with the results.
-
-## 2017 FRC Season
-
-<img src="/assets/img/2017_season/rockefeller.jpg" alt="Rockefeller" class="picture-height"/>
-
-The 2017 FRC Season was our team's second season; our robot Rockefeller participated in this year's [FIRST STEAMworks](https://www.youtube.com/watch?v=EMiNmJW7enI) competition, and competed in both Central Valley Regional and Silicon Valley Regional. At Silicon Valley Regional, we were selected as the first pick of the 8th seeded alliance and made it into the quarterfinals.
+To learn about the robots our team has built, click [here](/robots).
 
 ## Robotics Class
 
