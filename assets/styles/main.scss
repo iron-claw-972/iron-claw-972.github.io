@@ -9,7 +9,7 @@ $team-support-image: url('/assets/img/2017_season/team_6.jpg');
 $follow-image: url('/assets/img/2017_season/team_8.jpg');
 $contact-image: url('/assets/img/2017_season/team_2.jpg');
 $calendar-image: url('/assets/img/2017_season/team_0.jpg');
-$student-info-image: url('/assets/img/2017_season/team_7.jpg');
+$robots-info-image: url('/assets/img/2017_season/team_7.jpg');
 $qualcomm-image: url('/assets/img/2016_sponsors/qualcomm.png');
 $nmf-image: url('/assets/img/2017_sponsors/nmf.png');
 $intuitive-image: url('/assets/img/2017_sponsors/intuitive.png');
@@ -65,8 +65,8 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
   background: $calendar-image bottom / cover;
 }
 
-.student-info-background {
-  background: $student-info-image bottom / cover;
+.robots-info-background {
+  background: $robots-info-image bottom / cover;
 }
 
 .contact-info-background {
@@ -182,9 +182,9 @@ $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
   }
 }
 
-.student-info {
+.robots-info {
   .mdl-card__title {
-    background: $student-info-image bottom / cover;
+    background: $robots-info-image bottom / cover;
   }
 }
 
