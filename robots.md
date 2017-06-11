@@ -8,7 +8,7 @@ image: robots-info-background
 ## Rockefeller - 2017 FRC Season
 
 <img src="/assets/img/2017_season/rockefeller.jpg" alt="Rockefeller" class="picture-width"/>
-<img src="/assets/img/2017_season/climber.jpg" alt="Rockefeller's Climber" class="picture-width"/>
+<img src="/assets/img/2017_season/climber.JPG" alt="Rockefeller's Climber" class="picture-width"/>
 
 The 2017 FRC Season was our team's second season; our robot [Rockefeller](https://www.youtube.com/watch?v=h9hPIQuOPck) participated in [FIRST STEAMworks](https://www.youtube.com/watch?v=EMiNmJW7enI) and competed in both Central Valley Regional and Silicon Valley Regional. At Silicon Valley Regional, we were selected as the first pick of the 8th seeded alliance and made it into the quarterfinals.
 
