@@ -32,6 +32,8 @@ $plethora-image: url('/assets/img/2017_sponsors/plethora.svg');
 $saphotonics-image: url('/assets/img/2017_sponsors/saphotonics.png');
 $atg-image: url('/assets/img/2017_sponsors/atg.png');
 $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
+$polycarb-image: url('/assets/img/2017_season/2017_polycarb.jpg');
+$shirt-image: url('/assets/img/2017_season/2017_shirt.jpg');
 
 //custom fonts
 
@@ -310,6 +312,14 @@ iframe {
 
 .nvidia {
   background: $nvidia-image no-repeat center / contain;
+}
+
+.robot-polycarb {
+  background: $polycarb-image no-repeat center / contain;
+}
+
+.robot-shirt {
+  background: $shirt-image no-repeat center / contain;
 }
 
 .center-grid {
