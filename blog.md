@@ -5,18 +5,23 @@ permalink: blog/
 image: student-info-background
 ---
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a> -- <a href="#six">Week 6</a>  -- <a href="#reflection">"Reflection"</a></h3>
+<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a> -- <a href="#six">Week 6</a>  -- <a href="#reflection">Reflection</a></h3>
 
 <h2><a name="reflection">Reflection and Post-Season Update</a></h2>
 
 The FIRST Robotics Competition game for 2017, dubbed FIRST STEAMworks, involved delivering gears to a mock-airship to fix it, shoot whiffle balls into boilers to fuel it, and climb up a rope to prepare for it to take-off.
-[img]
+
+<img src="/assets/img/2017_blog/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+
 After analyzing the game and its rules, we decided that our strategy would be to focus on shooting the balls into the boilers and climb the rope at the end of the match. From this strategy we created and tested prototypes, developed a design using Computer-Aided Design, manufactured parts, and eventually assembled the robot. All the while, the programming team wrote and perfected the code.
 
 By the time build season had ended, however, we realized that it would not be feasible to get our fuel-shooter to be consistent enough by competition to score effectively. We decided to retrofit our robot to become a gear-delivering robot, which was both a more feasible design and a far more effective strategy in earning points. Though our robot was bagged at the end of build season, we created a gear intake and holding mechanism separately before competition.
-[img]
+
+<img src="/assets/img/2017_blog/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+
 Despite this dramatic redesign, we rose to the occasion and ultimately fielded a robot that was extraordinarily competitive. We placed seven places higher than last year at the Central Valley Regional and even more impressive, we were chosen as the first pick of the eighth-seed alliance to progress to quarterfinals at the Silicon Valley Regional.
-[img]
+<img src="/assets/img/2017_blog/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+
 <hr />
 
 <h2><a name="six">Week 6: Last Week of Build Season!</a></h2>
