@@ -7,7 +7,7 @@ image: student-info-background
 
 <h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a> -- <a href="#six">Week 6</a>  -- <a href="#reflection">Reflection</a></h3>
 
-<h2><a name="reflection">Reflection and Post-Season Update</a></h2>
+<h2><a name="reflection">Reflection and Season Recap</a></h2>
 
 The FIRST Robotics Competition game for 2017, dubbed FIRST STEAMworks, involved delivering gears to a mock-airship to fix it, shoot whiffle balls into boilers to fuel it, and climb up a rope to prepare for it to take-off.
 
