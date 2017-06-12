@@ -11,16 +11,17 @@ image: student-info-background
 
 The FIRST Robotics Competition game for 2017, dubbed FIRST STEAMworks, involved delivering gears to a mock-airship to fix it, shoot whiffle balls into boilers to fuel it, and climb up a rope to prepare for it to take-off.
 
-<img src="/assets/img/2017_blog/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+<img src="/assets/img/2017_season/team_6.jpg" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
 
 After analyzing the game and its rules, we decided that our strategy would be to focus on shooting the balls into the boilers and climb the rope at the end of the match. From this strategy we created and tested prototypes, developed a design using Computer-Aided Design, manufactured parts, and eventually assembled the robot. All the while, the programming team wrote and perfected the code.
 
 By the time build season had ended, however, we realized that it would not be feasible to get our fuel-shooter to be consistent enough by competition to score effectively. We decided to retrofit our robot to become a gear-delivering robot, which was both a more feasible design and a far more effective strategy in earning points. Though our robot was bagged at the end of build season, we created a gear intake and holding mechanism separately before competition.
 
-<img src="/assets/img/2017_blog/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+<img src="/assets/img/2017_season/rockefeller.jpg" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
 
 Despite this dramatic redesign, we rose to the occasion and ultimately fielded a robot that was extraordinarily competitive. We placed seven places higher than last year at the Central Valley Regional and even more impressive, we were chosen as the first pick of the eighth-seed alliance to progress to quarterfinals at the Silicon Valley Regional.
-<img src="/assets/img/2017_blog/jake_3d.JPG" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
+
+<img src="/assets/img/2017_season/2017_shirt.jpg" alt="Jake Caligiuri overlooks the 3D printer printing sprockets." class="picture-height"/>
 
 <hr />
 
