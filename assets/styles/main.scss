@@ -27,6 +27,7 @@ $kiwanis-image: url('/assets/img/2017_sponsors/kiwanis.gif');
 $nowandforever-image: url('/assets/img/2017_sponsors/nowandforever.png');
 $ponyexpress-image: url('/assets/img/2017_sponsors/ponyexpress.png');
 $lgsuhsd-image: url('/assets/img/2017_sponsors/lgsuhsd.png');
+$rotary-image: url('/assets/img/2017_sponsors/rotary.png');
 $cambrian-image: url('/assets/img/2017_sponsors/cambrian.jpg');
 $plethora-image: url('/assets/img/2017_sponsors/plethora.svg');
 $saphotonics-image: url('/assets/img/2017_sponsors/saphotonics.png');
@@ -313,6 +314,11 @@ iframe {
 .nvidia {
   background: $nvidia-image no-repeat center / contain;
 }
+
+.rotary {
+  background: $rotary-image no-repeat center / contain;
+}
+
 
 .robot-polycarb {
   background: $polycarb-image no-repeat center / contain;
