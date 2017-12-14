@@ -4,7 +4,7 @@ layout: page
 permalink: publicity/
 image: team-support-background
 ---
-##### Publicity
+###### Publicity
 
 Iron Claw endeavors to support and publicize our sponsors whenever possible. By displaying our supporters in everything our team does, we express our gratitude for our amazing sponsors.
 
