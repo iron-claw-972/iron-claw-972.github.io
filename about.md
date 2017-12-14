@@ -8,8 +8,8 @@ image: about-background
 ## About Us
 
 Iron Claw is a [First Robotics Competition (FRC)](http://www.firstinspires.org/robotics/frc) team run by the Los
-Gatos High School Robotics Club. This is the team's second year at LGHS after being restarted. We look forward to
-seeing our fellow teams this year at the Central Valley Regional and at the Silicon Valley Regional!
+Gatos High School Robotics Club. This is the team's third year at LGHS after being restarted. We look forward to
+seeing our fellow teams this year at the San Francisco Regional and at the Central Valley Regional!
 
 ## Our History
 
@@ -36,4 +36,4 @@ To learn about the robots our team has built, click [here](/robots).
 
 ## Robotics Class
 
-Iron Claw started off the 2016-2017 school year by introducing Los Gatos High School's first-ever Robotics class. Students in the class have the opportunity to learn the fundamentals of robotics, including programming, electrical and mechanical skills, CAD, fundraising, and leadership. The class allows students to learn these invaluable skills in a classroom setting, while also preparing them for the upcoming FRC season. The elective is open to all students, and it gives students class credit to recognize them for their hard work. Students interested in the class should talk to Mr. Coppelli, the engineering/robotics teacher.
+Iron Claw started off the 2017-2018 school year by offering the Los Gatos High School's Robotics class for the second year. Students in the class have the opportunity to learn the fundamentals of robotics, including programming, electrical and mechanical skills, CAD, fundraising, and leadership. The class allows students to learn these invaluable skills in a classroom setting, while also preparing them for the upcoming FRC season. The elective is open to all students, and it gives students class credit to recognize them for their hard work. Students interested in the class should talk to Mr. Coppelli, the engineering/robotics teacher.
