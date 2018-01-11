@@ -4,10 +4,33 @@ layout: page
 permalink: blog/
 image: student-info-background
 ---
+<h3 align="center"><a href="2018">2018</a> -- <a href="#2017">2017</a></h3>
 
-<h3 align="center"><a href="#one">Week 1</a> -- <a href="#two">Week 2</a> -- <a href="#three">Week 3</a> -- <a href="#four">Week 4</a> -- <a href="#five">Week 5</a> -- <a href="#six">Week 6</a>  -- <a href="#reflection">Reflection</a></h3>
+<h2><a name="2018">2018 Season Blog</a></h2>
 
-<h2><a name="reflection">Reflection and Season Recap</a></h2>
+<h3 align="center"><a href="#2018one">Week 1</a></h3>
+This is the first official day of the 2018 build season, meaning that FIRST Power Up has officially begun! On Kickoff day,
+FIRST reveals the game for this year's competitions along with the detailed rules that specify exactly how matches will be played. 
+Armed with this information, we now only have a mere six weeks to design, build, program, and test a robot for competition. FIRST 
+Power Up is a retro-themed game that involves two opposing alliances of three robots each competing by placing power cubes onto
+seesaw-like switches and a six-foot-high scale to make them tilt towards the alliance’s designated side. The alliance that has
+“ownership” of the switches and scale for the longest time and whose robots climb onto a seven-foot-high rung earns the most points
+and wins the match.
+
+![Attending Kickoff at SJSU](/assets/img/2018_blog/sjsu_kickoff.jpg)
+The team leaders meet up at San Jose State University for early information on this year’s game and the Kit of Parts, which is a basic 
+set of some robot parts and the power cube game element.
+
+![Reading the Rules](/assets/img/2018_blog/reading_rules.jpg)
+The entire team reads the game rules together (the Game Manual this year was 133 pages!).
+
+<hr />
+
+<h2><a name="2017">2017 Season Blog</a></h2>
+
+<h3 align="center"><a href="#2017one">Week 1</a> -- <a href="#2017two">Week 2</a> -- <a href="#2017three">Week 3</a> -- <a href="#2017four">Week 4</a> -- <a href="#2017five">Week 5</a> -- <a href="#2017six">Week 6</a>  -- <a href="#2017reflection">Reflection</a></h3>
+
+<h3><a name="2017reflection">Reflection and Season Recap</a></h3>
 
 The FIRST Robotics Competition game for 2017, dubbed FIRST STEAMworks, involved delivering gears to a mock-airship to fix it, shoot whiffle balls into boilers to fuel it, and climb up a rope to prepare for it to take-off.
 
@@ -25,7 +48,7 @@ Despite this dramatic redesign, we rose to the occasion and ultimately fielded a
 
 <hr />
 
-<h2><a name="six">Week 6: Last Week of Build Season!</a></h2>
+<h3><a name="2017six">Week 6: Last Week of Build Season!</a></h3>
 
 Now that it’s the last week of build season, we have finally finished (most of) our robot and put it in a bag for competition! We are machining the last parts of our shooter, gear mechanism, and the shooter feeder. The electrical board is completed and mounted onto our drive base, and the superstructure consisting of all our mechanisms has yet to be completed and mounted on top of the drive base. Programmers are continuing to work on PID and vision, and the shooter code now has 75% to 80% accuracy whilst shooting fuel into the boiler.
 
@@ -53,7 +76,7 @@ Brian Cruz guides a new member in mounting the final electrical board onto the c
 
 <hr />
 
-<h2><a name="five">Week 5: Build Season</a></h2>
+<h3><a name="2017five">Week 5: Build Season</a></h3>
 
 We are nearing the end of build season, and have completed the fully functional chassis and drive train. We plan to get our super structure done next week and get some driving practice in as well.
 
@@ -82,7 +105,7 @@ Brian Cruz strips and crimps wires to be put on the electrical board
 Amidst the build season frenzy, we will be exhibiting last year’s robot at a local elementary school’s science fair to inspire the next generation of engineers. We hope that this will spark the creativity and imagination of these younger students, and that we will demonstrate how with a bit of time, teamwork, determination, and amazing mentors they can accomplish anything. When they see this robot we hope they will join robotics and take an interest in STEM.
 <hr />
 
-<h2><a name="four">Week Four: Build Season</a></h2>
+<h3><a name="2017four">Week Four: Build Season</a></h3>
 
 We are over half way done with build season, and we have made a lot of progress. The CAD team has finished the CAD, and is adding final touches to the design. The programmers are continuing to learn and practice advanced forms of code, and are now preparing code for our newly-built electrical board.
 
@@ -106,7 +129,7 @@ By next week, we hope to have completed our superstructure. We wish to reserve o
 
 <hr />
 
-<h2><a name="three">Week Three: Build Season</a></h2>
+<h3><a name="2017three">Week Three: Build Season</a></h3>
 
 As Week 3 comes to an end, the team has nearly completed prototyping and CAD, and is now preparing to assemble mechanisms for our final robot. By testing using our recently-made prototypes, we have made design changes to ensure the optimal integration of mechanisms and overall efficiency of this year's robot.
 
@@ -130,7 +153,7 @@ Thank you all for your generous donations that have allowed us to build not only
 
 <img src="/assets/img/2017_blog/blue-light.jpeg" alt="Thank you all for your generous donations that have allowed us to build not only our robot, but also our team" class="picture-height"/>
 
-<h2><a name="two">Week Two: Build Season</a></h2>
+<h3><a name="2017two">Week Two: Build Season</a></h3>
 
 It’s officially week two of build season, and we've switched gears (no pun intended) from deciding which robot to build to actually designing and fabricating our robot. Programmers have begun programming basic code, such as our drive code, and have been assigning roles to certain electrical parts and mechanisms. Our mechanical team continues to use CAD (Computer Aided Design) to design our robot digitally.
 
@@ -156,7 +179,7 @@ The programmers have begun writing basic drive code, vision/camera code, imputin
 
 <hr />
 
-<h2><a name="one">Week 1: Kickoff Week!</a></h2>
+<h3><a name="2017one">Week 1: Kickoff Week!</a></h3>
 
 This is the first of six weeks in build season, which is the period we have to design, program, build, and test our robot for competition. We made several prototypes of potential mechanisms our robot could have to compete effectively in the game, including a low goal shooter, high goal shooter, fuel and gear intakes, gear manipulator, and rope climber.
 
