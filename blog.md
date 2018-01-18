@@ -19,7 +19,7 @@ Since the mechanisms for the scale and switch essentially perform the same funct
 would be a common intake / outtake system for both the switch and the scale, along with an elevator system to adjust our intake /
 outtake system for different heights as necessary.
 
-<img src="/assets/img/2018_blog/flywheel_prototype.jpg" alt="Discussing Designs and Prototypes" class="picture-height"/>
+<img src="/assets/img/2018_blog/flywheel_prototype.JPG" alt="Discussing Designs and Prototypes" class="picture-height"/>
 
 The team discusses design and watches a prototype in action.
 
@@ -39,7 +39,7 @@ Our team is thankful to our sponsors for supporting us so that we could provide 
 while our electrical team worked on developing the electrical board and our CAD team created a drive base design for the manufacturing and assembly
 team to produce.
 
-<img src="/assets/img/2018_blog/jody_teaching.jpg" alt="Programmers Discuss Code" class="picture-height"/>
+<img src="/assets/img/2018_blog/jody_teaching.JPG" alt="Programmers Discuss Code" class="picture-height"/>
 
 Programmers discuss code structure and autonomous strategies.
 
