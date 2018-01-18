@@ -2,7 +2,7 @@
 title: Team Blog
 layout: page
 permalink: blog/
-image: student-info-background
+image: about-background
 ---
 <h3 align="center"><a href="#2018">2018</a> -- <a href="#2017">2017</a></h3>
 
