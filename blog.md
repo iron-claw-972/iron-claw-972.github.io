@@ -106,7 +106,7 @@ and wins the match.
 <img src="/assets/img/2018_blog/sjsu_kickoff.jpg" alt="Attending Kickoff at SJSU" class="picture-height"/>
 
 
-<h6>The team leaders meet up at San Jose State University for early information on this year’s game and the Kit of Parts, which is a basic set of some robot parts and the power cube game element</h6>
+The team leaders meet up at San Jose State University for early information on this year’s game and the Kit of Parts, which is a basic set of some robot parts and the power cube game element
 
 
 <img src="/assets/img/2018_blog/reading_rules.jpg" alt="Reading the Rules" class="picture-height"/>
