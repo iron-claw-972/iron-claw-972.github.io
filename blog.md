@@ -19,6 +19,8 @@ The CAD team played an especially important role this week in advancing the prog
 
 
 <img src="/assets/img/2018_blog/week2DesignReview.JPG" alt="Week 2 Design Review" class="picture-height"/>
+
+
 The team discusses our progress at the second design review of the season
 
 
@@ -26,6 +28,8 @@ The programming team continued to test different motors and sensors to narrow do
 
 
 <img src="/assets/img/2018_blog/maciejPeanutChassis.JPG" alt="Maciej programming with the peanut chassis " class="picture-height"/>
+
+
 Maciej tests code with a peanut chassis
 
 
@@ -33,6 +37,8 @@ Our electrical team has begun creating the electrical board on which all of the 
 
 
 <img src="/assets/img/2018_blog/makingGalaga.jpg" alt="Members working on a Galaga themed electrical board" class="picture-height"/>
+
+
 Carol and Michael decorate the electrical board after being cut on the ShopBot
 
 
@@ -40,6 +46,8 @@ The mechanical team started to build the drive base (chassis) to our robot. This
 
 
 <img src="/assets/img/2018_blog/reviewTheCAD.JPG" alt="Sofia, Sejal, and Mina review the CAD of the chassis to plan cable routing" class="picture-height"/>
+
+
 Sofia, Sejal, and Mina review the CAD of the chassis to plan cable routing
 
 
@@ -54,6 +62,8 @@ Since the mechanisms for the scale and switch essentially perform the same funct
 
 
 <img src="/assets/img/2018_blog/flywheel_prototype.JPG" alt="Discussing Designs and Prototypes" class="picture-height"/>
+
+
 The team discusses design and watches a prototype in action.
 
 
@@ -61,6 +71,8 @@ Our team narrowed the potential options for our intake system down to two design
 
 
 <img src="/assets/img/2018_blog/intakePrototype.gif" alt="Discussing Designs and Prototypes" class="picture-height"/>
+
+
 Charles brings a power cube to the prototype flywheel intake.
 
 
@@ -72,7 +84,10 @@ The end-game task for FIRST Power-Up involves lifting our robot at least a foot 
 
 The programming team discussed the structure of the robot’s program for this year’s game. Both novice and experienced programmers experimented with different sensors, like ultrasonic sensors and quadrature encoders, to determine the best way to monitor every action of this year’s robot. The team produced electronics test boards for our programmers to test their ideas, while our electrical team worked on developing the electrical board and our CAD team created a drive base design for the manufacturing and assembly team to produce.
 
+
 <img src="/assets/img/2018_blog/jody_teaching.JPG" alt="Programmers Discuss Code" class="picture-height"/>
+
+
 Programmers discuss code structure and autonomous strategies.
 
 
@@ -89,11 +104,15 @@ seesaw-like switches and a six-foot-high scale to make them tilt towards the all
 and wins the match.
 
 <img src="/assets/img/2018_blog/sjsu_kickoff.jpg" alt="Attending Kickoff at SJSU" class="picture-height"/>
+
+
 <h6>The team leaders meet up at San Jose State University for early information on this year’s game and the Kit of Parts, which is a basic set of some robot parts and the power cube game element</h6>
 
 
 <img src="/assets/img/2018_blog/reading_rules.jpg" alt="Reading the Rules" class="picture-height"/>
-<h6>The entire team reads the game rules together (the Game Manual this year was 133 pages!) </h6>
+
+
+The entire team reads the game rules together (the Game Manual this year was 133 pages!)
 
 
 <hr />
