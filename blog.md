@@ -22,26 +22,29 @@ The CAD team played an especially important role this week in advancing the prog
 <h6>The team discusses our progress at the second design review of the season</h6>
 
 
-The programming team continued to test different motors and sensors to narrow down the list of the electronics that will prove most effective in carrying out our robot’s functions. In addition, they have also begun writing the basic drive code that will allow the robot to be driven using two joysticks (the left and right joysticks control the left and rights sides of the robot respectively). 
+The programming team continued to test different motors and sensors to narrow down the list of the electronics that will prove most effective in carrying out our robot’s functions. In addition, they have also begun writing the basic drive code that will allow the robot to be driven using two joysticks (the left and right joysticks control the left and rights sides of the robot respectively).
+
+
 <img src="/assets/img/2018_blog/maciejPeanutChassis.JPG" alt="Maciej programming with the peanut chassis " class="picture-height"/>
-<h6>Maciej Buszko tests code with a peanut chassis</h6>
+<h6>Maciej tests code with a peanut chassis</h6>
 
 
 Our electrical team has begun creating the electrical board on which all of the robot’s electronics will be mounted. Reflecting the video-game centered themes of this year’s FIRST Power-Up, we are designing our board in the shape of the iconic spaceship from the arcade game Galaga. 
 
 
 <img src="/assets/img/2018_blog/makingGalaga.jpg" alt="Members working on a Galaga themed electrical board" class="picture-height"/>
-<h6>Carol Li and Michael Barthel decorate the electrical board after being cut on the ShopBot</h6>
+<h6>Carol and Michael decorate the electrical board after being cut on the ShopBot</h6>
 
 
 The mechanical team started to build the drive base (chassis) to our robot. This is the most basic component of the robot which serves to enable basic driving functions. Our drive base will provide the foundation upon which other mechanisms performing more complex functions (intake system, elevator, climber, etc.) will be added. 
 
 
-<img src="/assets/img/2018_blog/reviewTheCAD.JPG" alt="Sofia Rossi, Seja Karanjkar, and Mina Stojanovic review the CAD of the chassis to plan cable routing" class="picture-height"/>
-<h6>Sofia Rossi, Seja Karanjkar, and Mina Stojanovic review the CAD of the chassis to plan cable routing</h6>
+<img src="/assets/img/2018_blog/reviewTheCAD.JPG" alt="Sofia, Sejal, and Mina review the CAD of the chassis to plan cable routing" class="picture-height"/>
+<h6>Sofia, Sejal, and Mina review the CAD of the chassis to plan cable routing</h6>
 
 
 <hr />
+
 
 <h3><a name="2018one">Week 1</a></h3>
 The first week of build season is when the team collectively decides on a general strategy to pursue for the remainder of the season. We ultimately decided that our robot will be built to place blocks on the scale and switch with additional mechanisms to climb during the endgame. We also started prototyping several mechanisms to determine how these goals can be most effectively achieved.
@@ -58,7 +61,8 @@ Our team narrowed the potential options for our intake system down to two design
 
 
 <img src="/assets/img/2018_blog/intakePrototype.gif" alt="Discussing Designs and Prototypes" class="picture-height"/>
-<h6>Charles Wang brings a power cube to the prototype flywheel intake.</h6>
+<h6>Charles brings a power cube to the prototype flywheel intake.</h6>
+
 
 The second approach to intake that we considered was a claw mechanism powered by pneumatics. In this design, a double piston extends to lock onto a cube, and retracts to release it.
 
@@ -71,42 +75,9 @@ The programming team discussed the structure of the robot’s program for this y
 <img src="/assets/img/2018_blog/jody_teaching.JPG" alt="Programmers Discuss Code" class="picture-height"/>
 <h6>Programmers discuss code structure and autonomous strategies.</h6>
 
+
 <hr />
 
-<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a></h3>
-
-<h3><a name="2018one">Week 1!</a></h3>
-The first week of build season is when the team collectively decides on a general strategy to pursue for the remainder of the season.
-We ultimately decided that our robot will be built to place blocks on the scale and switch with additional mechanisms to climb during
-the endgame. We also started prototyping several mechanisms to determine how these goals can be most effectively achieved.
-
-Since the mechanisms for the scale and switch essentially perform the same functions at different heights, we decided the most efficient design
-would be a common intake / outtake system for both the switch and the scale, along with an elevator system to adjust our intake /
-outtake system for different heights as necessary.
-
-<img src="/assets/img/2018_blog/flywheel_prototype.JPG" alt="Discussing Designs and Prototypes" class="picture-height"/>
-
-The team discusses design and watches a prototype in action.
-
-Our team narrowed the potential options for our intake / outtake system down to two designs. The first design involved two flywheels with
-dynamic spacing that could be adjusted to account for different orientations of the power cubes; spinning the flywheels in one direction
-will allow the robot to grip onto the cube, and spinning in the other direction releases it.
-
-The second approach to intake / outtake that we considered was a claw mechanism powered by pneumatics. In this design, a double piston extends
-to lock onto a cube, and retracts to release it. The end-game task for FIRST Power-Up involves lifting
-our robot at least a foot off the ground using the rung at the top of the scale to support it. Throughout the week, our team conceptualized
-and tested many prototypes for a climbing mechanism that could effectively achieve this task. In the example below, our team tested the
-viability of using measuring tape to lift our robot by determining the maximum weight it could support. 
-
-The programming team discussed the structure of the robot’s program for this year’s game. Both novice and experienced programmers experimented
-with different sensors, like ultrasonic sensors and quadrature encoders, to determine the best way to monitor every action of this year’s robot.
-Our team is thankful to our sponsors for supporting us so that we could provide electronics test boards for our programmers to test their ideas,
-while our electrical team worked on developing the electrical board and our CAD team created a drive base design for the manufacturing and assembly
-team to produce.
-
-<img src="/assets/img/2018_blog/jody_teaching.JPG" alt="Programmers Discuss Code" class="picture-height"/>
-
-Programmers discuss code structure and autonomous strategies.
 
 <h3><a name="2018kickoff">Kickoff Day!</a></h3>
 This is the first official day of the 2018 build season, meaning that FIRST Power Up has officially begun! On Kickoff day,
