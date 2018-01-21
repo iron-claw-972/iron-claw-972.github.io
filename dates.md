@@ -7,21 +7,21 @@ image: calendar-background
 
 ### Season Dates
 
-Saturday 9/24/16 - Sunday 9/25/16: [Chezy Champs](https://chezychamps.com/)
+Saturday, 1/6/18: FIRST Power Up FRC Kickoff!
 
-Saturday, 1/7/17: FRC Kickoff!
+Tuesday, 2/20/18: FRC Build Season Ends (Bag & Tag)
 
-Tuesday, 2/21/17: FRC Build Season Ends (Bag & Tag)
+Thursday, 3/15/18 - Sunday, 3/18/18: [San Francisco Regional](http://www.firstsfbay.org/)
 
-Thursday, 3/9/17 - Sunday, 3/12/17: [Central Valley Regional](https://www.cvrobotics.org/frc/regional/)
-
-Wednesday, 3/29/17 - Saturday, 4/1/17: [Silicon Valley Regional](http://www.firstsv.org/)
+Wednesday, 4/5/18 - Saturday, 5/8/18:  [Central Valley Regional](https://www.cvrobotics.org/frc/regional/)
 
 ### Outreach
 
-Saturday, 11/19/16: Mensa Demonstration
+Saturday, 12/9/19: Shining Stars Demonstration
 
-Friday, 3/3/17: Blossom Hill Science Fair Demo
+Sunday, 12/10/18: Sunday Friends Demo
+
+Friday, 3/2/18: Blossom Hill Elementary Science Fair Demo
 
 If you are interested in a demonstration from Iron Claw, please [contact us](mailto:contact@ironclaw972.org).
 
