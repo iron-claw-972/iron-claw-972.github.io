@@ -14,13 +14,13 @@ image: about-background
 <h3><a name="2018three">Week 3</a></h3>
 
 
-With the third week of build season coming to an end, we have completed our drivetrain, electrical board, and the first version of our intake mechanism. This means that we nearly have a driving robot with the ability to intake power cubes with half of build season still remaining. Our next steps are to mount our electrical board onto our drive chassis, refine our intake mechanism, and continue work on our elevator and climbing mechanisms.
+With the third week of build season coming to an end, we have completed our drive train, electrical board, and the first version of our intake mechanism. This means that we nearly have a driving robot with the ability to intake power cubes with half of build season still remaining. Our next steps are to mount our electrical board onto our drive chassis, refine our intake mechanism, and continue work on our elevator and climbing mechanisms.
 
 
 <img src="/assets/img/2018_blog/intakeDiscussion.jpg" alt="Discussing the current intake" class="picture-height"/>
 
 
-The first iteration of ourintake mechanism
+The first iteration of our intake mechanism
 
 
 The electrical team finished wiring our Galaga-themed electrical board and set up two key sensors: the encoders and the optical sensor. Encoders are vital to many of our robot’s functions because they measure how many times an axle rotates, and this helps us manipulate parts on our robot more precisely. For instance, we can use encoders to make the robot drive a certain distance or lift our elevator to a specified height. The optical sensors will be used in our intake system detect whether we have successfully retrieved a power cube.
@@ -38,7 +38,7 @@ The programming team refined motion profiling and wrote code for the intake mech
 <img src="/assets/img/2018_blog/holdingNavX.jpg" alt="Looking at the NavX" class="picture-height"/>
 
 
-Ryan testing the gyroscope of the of the NavX, a 9-axis sensor
+Ryan testing the gyroscope of the NavX, a 9-axis sensor
 
 
 In addition to finishing the drive train assembly, the mechanical team also built the vertical struts for our elevator and the bracing for our electrical board. They also completed the first iteration of our intake mechanism, which shows promise but needs to be widened to be able to increase the contact between the power cubes and the intake wheels.
