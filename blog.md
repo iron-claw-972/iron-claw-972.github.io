@@ -10,7 +10,8 @@ image: about-background
 
 <h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a></h3>
 
-<h3><a name="2018four">Week 4</a></h4>
+
+<h3><a name="2018four">Week 4</a></h3>
 
 
 We are now at the end of our build season’s fourth week, and both the mechanical and software components of our robot are coming together. We have made great progress, and at this rate, we should have a completed robot with ample time for testing before build season’s end.  
@@ -56,6 +57,8 @@ Brian organizes the electronic components on our board to correspond with the pr
 
 
 <hr />
+
+
 <h3><a name="2018three">Week 3</a></h3>
 
 
