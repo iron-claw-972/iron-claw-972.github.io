@@ -26,7 +26,7 @@ Our robot popping a wheelie during our preliminary driver practice
 Thanks to the mechanical team’s efforts, we now have a driving robot with front omni wheels! The mechanical team also continued to build upon the progress made last week towards the intake and elevator mechanisms. Specifically, our mechanical team built the second iteration of our intake mechanism, which addressed many of the problems hindering our previous design, although the dimensions of the system–now too wide–still remain to be resolved. The elevator mechanism also saw major progress this week, with one of the winches responsible for lifting and lowering the system being machined.
 
 
-<img src="/assets/img/2018_blog/intakeMechanism.JPG" alt="Our second intake mechanism" class="picture-height"/>
+<img src="/assets/img/2018_blog/intakeRevised.gif" alt="Our second intake mechanism" class="picture-height"/>
 
 
 The second iteration of our intake mechanism
