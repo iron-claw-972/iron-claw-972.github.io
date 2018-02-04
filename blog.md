@@ -26,7 +26,7 @@ Our robot popping a wheelie during our preliminary driver practice
 Thanks to the mechanical team’s efforts, we now have a driving robot with front omni wheels! The mechanical team also continued to build upon the progress made last week towards the intake and elevator mechanisms. Specifically, our mechanical team built the second iteration of our intake mechanism, which addressed many of the problems hindering our previous design, although the dimensions of the system–now too wide–still remain to be resolved. The elevator mechanism also saw major progress this week, with one of the winches responsible for lifting and lowering the system being machined.
 
 
-<img src="/assets/img/2018_blog/intakeMechanism.JPG" alt="Our second intake mechanism" class="picture-height"/>
+<img src="/assets/img/2018_blog/intakeRevised.gif" alt="Our second intake mechanism" class="picture-height"/>
 
 
 The second iteration of our intake mechanism
@@ -47,7 +47,7 @@ Programmers taking advantage of the pleasant weather by testing their program on
 Val works on designing a scouting website for competition this year
 
 
-This week, the electrical team first worked with the programmers to make sure the electronics board was organized according to robot code and installed the board onto our robot with the board shield, a protective polycarbonate sheet made by our CAD team to collisions with other robots from damaging our electronics. Once this was completed, they began setting up the pneumatics that will be used in our climbing system.
+This week, the electrical team first worked with the programmers to make sure the electronics board was organized according to robot code and installed the board onto our robot with the board shield, a protective polycarbonate sheet made by our CAD team to prevent collisions with other robots from damaging our electronics. Once this was completed, they began setting up the pneumatics that will be used in our climbing system.
 
 
 <img src="/assets/img/2018_blog/boardOrganizing.JPG" alt="Brian organizing the electrical board" class="picture-height"/>
