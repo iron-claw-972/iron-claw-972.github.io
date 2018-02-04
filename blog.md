@@ -15,22 +15,36 @@ image: about-background
 
 We are now at the end of our build season’s fourth week, and both the mechanical and software components of our robot are coming together. We have made great progress, and at this rate, we should have a completed robot with ample time for testing before build season’s end.  
 
+
+<img src="/assets/img/2018_blog/tinyWheelies.gif" alt="Driver practice wheelies" class="picture-height"/>
+
+
+Our robot popping a wheelie during our preliminary driver practice
+
+
 Thanks to the mechanical team’s efforts, we now have a driving robot with front omni wheels! The mechanical team also continued to build upon the progress made last week towards the intake and elevator mechanisms. Specifically, our mechanical team built the second iteration of our intake mechanism, which addressed many of the problems hindering our previous design, although the dimensions of the system–now too wide–still remain to be resolved. The elevator mechanism also saw major progress this week, with one of the winches responsible for lifting and lowering the system being machined.
 
 
 <img src="/assets/img/2018_blog/intakeMechanism.JPG" alt="Our second intake mechanism" class="picture-height"/>
 
 
-The second iteration of our intake mechanism.
+The second iteration of our intake mechanism
 
 
-The programmers have also made many major developments this week. In addition to finishing the code for the intake and elevator mechanisms, they have also started writing many of the routines for FIRST Power Up’s fifteen second autonomous period - during which robots will carry out instructions given solely by prewritten code instead of driver input. A couple of programmers have also taken their own initiative in designing a website to record and calculate data collected by scouters, who observe other teams’ robots during competition so the team can make informed decisions and strategies during alliance selections. 
+The programmers have also made many major developments this week. In addition to finishing the code for the intake and elevator mechanisms, they have also started writing many of the routines for FIRST Power Up’s fifteen second autonomous period, during which robots will carry out instructions given solely by prewritten code instead of driver input. A couple of programmers have also taken their own initiative in designing a website to record and calculate data collected by scouters, who observe other teams’ robots during competition so the team can make informed decisions and strategies during alliance selections. 
+
+
+<img src="/assets/img/2018_blog/robotTennisCourts.gif" alt="Testing on the tennis courts" class="picture-height"/>
+
+
+Programmers taking advantage of the pleasant weather by testing their program on the tennis courts
 
 
 <img src="/assets/img/2018_blog/scoutingWebsite.JPG" alt="Val develops scouting website" class="picture-height"/>
 
 
 Val works on designing a scouting website for competition this year
+
 
 This week, the electrical team first worked with the programmers to make sure the electronics board was organized according to robot code and installed the board onto our robot with the board shield, a protective polycarbonate sheet made by our CAD team to collisions with other robots from damaging our electronics. Once this was completed, they began setting up the pneumatics that will be used in our climbing system.
 
