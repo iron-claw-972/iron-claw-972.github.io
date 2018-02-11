@@ -8,7 +8,7 @@ image: about-background
 
 <h2><a name="2018">2018 Season Blog</a></h2>
 
-<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a></h3>
+<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a> -- <a href="#2018five">Week 5</a></h3>
 
 
 <h3><a name="2018five">Week 5</a></h3>
