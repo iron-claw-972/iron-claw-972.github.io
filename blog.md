@@ -8,7 +8,49 @@ image: about-background
 
 <h2><a name="2018">2018 Season Blog</a></h2>
 
-<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a></h3>
+<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a> -- <a href="#2018five">Week 5</a></h3>
+
+
+<h3><a name="2018five">Week 5</a></h3>
+
+
+With our fifth week of build season coming to an end, only a week and a half remain for us to finish our robot. Our team worked until 8 p.m. each night this week in preparation for these final stages, resulting in many issues from last week being addressed. Although deadlines are approaching quickly, finishing our robot with time left for testing remains a realistic goal.  
+
+
+The mechanical team continued refining our robot’s mechanisms this week, many of which are nearing completion. A particularly significant accomplishment made this week was the installation of our elevator system’s rails, which we can now use to adjust our intake to various heights. The mechanical team also modified our intake system so that its width can be adjusted and manufactured a hook for our climbing system. Finally, a few members have started to work on assembling the protective bumpers for our robot’s exterior frame.
+
+
+<img src="/assets/img/2018_blog/makingBumpers.JPG" alt="Bumpers being assembled" class="picture-height"/>
+
+
+David, Michael, and Kyra work on assembling our robot's bumpers
+
+
+<img src="/assets/img/2018_blog/elevatorDemo.JPG" alt="Jake demonstrates the elevator" class="picture-height"/>
+
+
+Jake demonstrates our finished elevator mechanism to other team members
+
+
+The programming team worked closely alongside the mechanical and electrical subteams this week, making sure their developments matched closely with our written code. Regarding the mechanical team, programmers tested the intake mechanism and helped make the necessary physics calculations for our climbing system; regarding electrical, the programmers helped to wire and test the encoders, encoder breakout boards, and optical sensors. Finally, the programmers have set up the NVIDIA Jetson TX1 for future use in vision applications and nearly finished our scouting website.
+
+
+After wiring and testing various electrical sensors with the programmers, the electrical team secured the encoders onto our drive train for motion profiling using custom-made 3D printed mounts. They also continued working on the pneumatics that will go on our robot, specifically setting up the pistons that will shift our drive train between having high torque and high speed. 
+
+
+<img src="/assets/img/2018_blog/pistons.JPG" alt="Pneumatic pistons" class="picture-height"/>
+
+
+The pistons set up by our electrical team
+
+
+<img src="/assets/img/2018_blog/encoderMounting.JPG" alt="Cathy mounting encoders" class="picture-height"/>
+
+
+Cathy works on mounting the encoders onto our robot
+
+
+<hr />
 
 
 <h3><a name="2018four">Week 4</a></h3>
