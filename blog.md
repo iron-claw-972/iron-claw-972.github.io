@@ -26,22 +26,22 @@ The mechanical team continued refining our robot’s mechanisms this week, many 
 David, Michael, and Kyra work on assembling our robot's bumpers
 
 
-<img src="/assets/img/2018_blog/elevatorDemo.JPG" alt="Jake demonstrates the elevator" class="picture-height"/>
+<img src="/assets/img/2018_blog/scaleElevatorTest.gif" alt="Our elevator system being tested on the field" class="picture-height"/>
 
 
-Jake demonstrates our finished elevator mechanism to other team members
+A practice run with our finished elevator system
 
 
 The programming team worked closely alongside the mechanical and electrical subteams this week, making sure their developments matched closely with our written code. Regarding the mechanical team, programmers tested the intake mechanism and helped make the necessary physics calculations for our climbing system; regarding electrical, the programmers helped to wire and test the encoders, encoder breakout boards, and optical sensors. Finally, the programmers have set up the NVIDIA Jetson TX1 for future use in vision applications and nearly finished our scouting website.
 
 
+<img src="/assets/img/2018_blog/intakeTesting.gif" alt="Testing our intake" class="picture-height"/>
+
+
+The programming team helps the mechanical team test our intake using the kitbot
+
+
 After wiring and testing various electrical sensors with the programmers, the electrical team secured the encoders onto our drive train for motion profiling using custom-made 3D printed mounts. They also continued working on the pneumatics that will go on our robot, specifically setting up the pistons that will shift our drive train between having high torque and high speed. 
-
-
-<img src="/assets/img/2018_blog/pistons.JPG" alt="Pneumatic pistons" class="picture-height"/>
-
-
-The pistons set up by our electrical team
 
 
 <img src="/assets/img/2018_blog/encoderMounting.JPG" alt="Cathy mounting encoders" class="picture-height"/>
