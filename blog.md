@@ -26,7 +26,7 @@ The mechanical team continued refining our robot’s mechanisms this week, many 
 David, Michael, and Kyra work on assembling our robot's bumpers
 
 
-<img src="/assets/img/2018_blog/scaleElevatorTest.gif" alt="Our elevator system being tested on the field" class="picture-height"/>
+<img src="/assets/img/2018_blog/scaleElevatorTest.gif" alt="Our elevator mechanism being tested on the field" class="picture-height"/>
 
 
 A practice run with our finished elevator system
