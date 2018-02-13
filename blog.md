@@ -26,10 +26,10 @@ The mechanical team continued refining our robot’s mechanisms this week, many 
 David, Michael, and Kyra work on assembling our robot's bumpers
 
 
-<img src="/assets/img/2018_blog/elevatorDemo.JPG" alt="Jake demonstrates the elevator" class="picture-height"/>
+<img src="/assets/img/2018_blog/scaleElevatorTest.gif" alt="Our elevator system being tested on the field" class="picture-height"/>
 
 
-Jake demonstrates our finished elevator mechanism to other team members
+A practice run with our finished elevator system
 
 
 The programming team worked closely alongside the mechanical and electrical subteams this week, making sure their developments matched closely with our written code. Regarding the mechanical team, programmers tested the intake mechanism and helped make the necessary physics calculations for our climbing system; regarding electrical, the programmers helped to wire and test the encoders, encoder breakout boards, and optical sensors. Finally, the programmers have set up the NVIDIA Jetson TX1 for future use in vision applications and nearly finished our scouting website.
