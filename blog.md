@@ -8,7 +8,55 @@ image: about-background
 
 <h2><a name="2018">2018 Season Blog</a></h2>
 
-<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a> -- <a href="#2018five">Week 5</a></h3>
+<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a> -- <a href="#2018five">Week 5</a> -- <a href="#2018six">Week 6</a></h3>
+
+
+<h3><a name="2018six">Week 6</a></h3>
+
+
+With Stop Build Day being last Tuesday, the build season for FIRST Power Up is officially over. Our robot, named Copernicus after the famous Renaissance astronomer, has been bagged and tagged, meaning that we may not continue working on it until our first competition. In our last few days of build season, our team made a lot of improvements to our intake and elevator mechanisms despite shipping setbacks. A faster and more consistent elevator is in the works, and will be attached to our robot at competition. 
+
+
+Our last few days of build season proved to be challenging. Although we had a robot ready a week before the end of build season, our elevator would get caught frequently on its way down due to the torque of our intake mechanism and was not as fast we wanted. As a result, last Friday we agreed upon a complete redesign of our elevator, replacing the pulleys in our original mechanism with belt-driven linear rails. In addition to the immense pressure we faced due to having little time, we were further challenged by shipping delays on the rails and belts.
+
+
+Despite these challenges, we managed to make tremendous progress in the last week. The mechanical team greatly improved our intake system by adding tread to the front wheels for greater traction with the cubes, a strong steel beam to the back to firmly set a minimum width, and stronger springs for a stronger grip on the cubes. Though our elevator parts were delivered four days late, we still began assembly of the elevator on the last day, and already the new design shows promise. Another priority of the mechanical team was weight reduction since our new elevator’s heavier weight placed our overall robot weight above the maximum 120 pounds.
+
+
+Programmers primarily focused on testing our robot’s autonomous routines, which, if done well, earns a ton of points at competition and set the best robots apart. We confidently believe we can deliver power cubes to either side of the switch from three possible positions at competition.
+
+
+<img src="/assets/img/2018_blog/switchTesting.gif" alt="Testing code for the switch" class="picture-height"/>
+
+
+Programmers test code for the elevator and intake mechanisms
+
+
+<img src="/assets/img/2018_blog/speedy-driving.gif" alt="Jake practices driving the robot" class="picture-height"/>
+
+
+Jake practices driving with our finished robot
+
+
+<img src="/assets/img/2018_blog/switch2.gif" alt="Delivering to the switch in teleop" class="picture-height"/>
+
+
+Jake delivers power cubes to the switch in teleoperated mode
+
+
+Currently, our robot’s drive base and intake system are bagged along with our old elevator, which can serve as a back-up plan. Over the next few weeks we plan to finish our new elevator and mount it onto a kitbot for further adjustments, weight saving, and testing. We will then implement the new elevator on our our robot at our first competition, the San Francisco Regional. Based on our results there, we will make further refinements for our second competition, the Central Valley Regional. 
+
+
+<img src="/assets/img/2018_blog/Bag-and-Tag.jpg" alt="Our robot Copernicus being bagged" class="picture-height"/>
+
+
+Our robot Copernicus being bagged and tagged for competition
+
+
+With build season over, we are proud that our build season progress and quality of our robot are far beyond that of last year. Thank you to our generous supporters for enabling us to experience our best build season yet; we look forward to competition!
+
+
+<hr />
 
 
 <h3><a name="2018five">Week 5</a></h3>
