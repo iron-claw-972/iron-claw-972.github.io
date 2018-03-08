@@ -1,0 +1,124 @@
+body {
+    background-color: white;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 100px;
+}
+
+#header {
+    background-color: darkgray;
+    direction: rtl;
+    position: relative;
+    left: 0;
+    right: 0;
+    padding: 2px;
+    margin: auto;
+    margin-bottom: 1cm;
+    overflow: auto;
+}
+
+.button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px;
+    display: inline-block;
+}
+
+#home {
+    float: left;
+}
+
+#scout {
+    float: left;
+}
+
+.button:hover {
+    box-shadow: 3px 3px 10px 1px #888888;
+}
+
+.loginout {
+    float: right;
+}
+
+.loginout:hover {
+    box-shadow: 3px 3px 10px 1px #888888;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 6px 12px;
+}
+
+#statsTable {
+    text-align: center;
+    margin: auto;
+    font-size: 21px;
+}
+
+#statsTable th {
+    background-color: gainsboro;
+}
+
+.chartGroupContainer {
+    width: 95%;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 1px;
+}
+
+.chartContainer {
+    min-width: 400px;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    float: left;
+}
+
+@media (max-width: 1000px) {
+    .button {
+        padding: 15px 25px;
+        font-size: 32px;
+        margin: 4px;
+    }
+    #statsTable {
+        font-size: 24px;
+    }
+    .chartSection {
+        width: 100%;
+        margin: auto;
+    }
+    .chartContainer {
+        max-width: 650px;
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+
+@media (max-width: 700px) {
+    #header {
+        padding: 2px;
+    }
+    table, th, td {
+        border: 1px solid gray;
+        border-collapse: collapse;
+        padding: 6px;
+    }
+    .button {
+        padding: 0px;
+        height: 40px;
+        width: 180px;
+        font-size: 20px;
+        clear: left;
+        float: left;
+        margin: 2px;
+    }
+}

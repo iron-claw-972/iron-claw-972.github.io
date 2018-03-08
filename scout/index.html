@@ -1,0 +1,49 @@
+<head>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+    <script type="text/javascript" src="mainChart.js"></script>
+    <!-- <script type="text/javascript" src="main.js"></script> -->
+  </head>
+  <body>
+    <div id="header">
+      <button class="button menuItem" id="home" onclick="window.location.href='.'">HOME</button>
+
+      <button class="button menuItem" id="scout" onclick="window.location.href='./submit'">SCOUT</button>
+
+      <button class="button menuItem" id="authorize-button" class="loginout" style="display: none;">LOG IN</button>
+      <button class="button menuItem" id="signout-button" class="loginout" style="display: none;">LOG OUT</button>
+    </div>
+
+    <table id="statsTable">
+    </table>
+
+    <script src="main.js">
+    </script>
+
+    <script async defer src="https://apis.google.com/js/api.js"
+      onload="this.onload=function(){};handleClientLoad()"
+      onreadystatechange="if (this.readyState === 'complete') this.onload()">
+    </script>
+
+    <div class="chartGroupContainer">
+      <div class="chartContainer">
+        <canvas id="switch"></canvas>
+      </div>
+      <div class="chartContainer">
+        <canvas id="scale"></canvas>
+      </div>
+    </div>
+    <div class="chartGroupContainer">
+      <div class="chartContainer">
+        <canvas id="climbs"></canvas>
+      </div>
+      <div class="chartContainer">
+        <canvas id="wins"></canvas>
+      </div>
+    </div>
+  </body>
+</html>

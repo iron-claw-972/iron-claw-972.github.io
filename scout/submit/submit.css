@@ -1,0 +1,221 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    background-color: #FFFFFF;
+    color: #404040;
+    font-size: 22px;
+    font-weight: bold;
+    /*text-shadow: 2px 2px 5px #555555;*/
+}
+
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 24px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+.container:hover input~.checkmark {
+    background-color: #ccc;
+}
+
+.container input:checked~.checkmark {
+    background-color: orange;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.container input:checked~.checkmark:after {
+    display: block;
+}
+
+.container .checkmark:after {
+    left: 8px;
+    top: 3px;
+    width: 7px;
+    height: 13px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#fs {
+    border: none;
+}
+
+input[type=textbox] {
+    height: 20px;
+    font-size: 20px;
+}
+
+input[type=textbox]::-webkit-input-placeholder {
+    color: #A9A9A9;
+    font-size: 20px;
+}
+
+textarea {
+    height: 16em;
+    width: 50%;
+    font-size: 20px;
+}
+
+input[type=number] {
+    height: 20px;
+    font-size: 20px;
+}
+
+input[type=number]::-webkit-input-placeholder {
+    color: #A9A9A9;
+    font-size: 20px;
+}
+
+input[type=submit] {
+    height: 30px;
+    width: 6em;
+    font-size: 20px;
+    background-color: darkgray;
+    border: none;
+}
+
+input[type=submit]:hover {
+    background-color: gray;
+}
+
+.inc {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.dec {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px;
+}
+
+@media (max-width: 900px) {
+    body {
+        font-size: 28px;
+    }
+    input, textarea {
+        -webkit-appearance: none;
+        -webkit-border-radius: 0;
+    }
+    #fs {
+        border: none;
+    }
+    #comments {
+        width: 100%;
+    }
+    input[type=textbox] {
+        font-size: 15px;
+        height: 25px;
+        margin: 3px 3px 3px 3px;
+        -webkit-input-placeholder {
+            /* Chrome/Opera/Safari */
+            color: pink;
+        }
+        -moz-placeholder {
+            /* Firefox 19+ */
+            color: pink;
+        }
+        -ms-input-placeholder {
+            /* IE 10+ */
+            color: pink;
+        }
+        -moz-placeholder {
+            /* Firefox 18- */
+            color: pink;
+        }
+    }
+    input[type=submit] {
+        height: 60px;
+        -webkit-input-placeholder {
+            /* Chrome/Opera/Safari */
+            color: pink;
+        }
+        -moz-placeholder {
+            /* Firefox 19+ */
+            color: pink;
+        }
+        -ms-input-placeholder {
+            /* IE 10+ */
+            color: pink;
+        }
+        -moz-placeholder {
+            /* Firefox 18- */
+            color: pink;
+        }
+    }
+    textarea {
+        font-size: 50px;
+        height: 500px;
+        width: 2000px;
+    }
+    .checkmark {
+        height: 80px;
+        width: 80px;
+    }
+    .container {
+        font-size: 26px;
+        padding-top: 18px;
+        padding-left: 85px;
+        margin-bottom: 36px;
+    }
+    .container .checkmark:after {
+        left: 20px;
+        top: 5px;
+        width: 30px;
+        height: 50px;
+        border-width: 0 10px 10px 0;
+    }
+    .inc {
+        float: right;
+        height: 60px;
+        width: 70px;
+        margin-left: 10px;
+    }
+    .dec {
+        float: right;
+        height: 60px;
+        width: 70px;
+    }
+}

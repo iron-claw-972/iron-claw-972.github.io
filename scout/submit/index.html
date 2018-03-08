@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+	<head>
+	    <meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+		<!-- Latest compiled and minified CSS -->
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+		<!-- Latest compiled and minified JavaScript -->
+		<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+		
+		<script src="submit.js"></script>
+
+		<link rel = "styleSheet" type= "text/css" href = "../main.css">
+
+		<link rel = "styleSheet" type= "text/css" href = "submit.css">
+	</head>
+	<body>
+		<form id="mf" name="submit-to-google-sheet">
+			<fieldset id="fs">
+				Match Number <br/><input id="matchNumber" 	name="matchNumber" 	type="number" placeholder="match number" style="width: 12em" min="0" max="100" required><br/>
+				Team Number <br/><input id="teamNumber" 	name="teamNumber" 	type="number" placeholder="team number" style="width: 12em" min="0" max="10000" required><br/>
+				Scout Name <br/><input id="scoutName" 		name="scoutName" 	type="textbox" placeholder="your name" style="width: 12em" maxlength="24" required><br/>
+
+				<h2>Auto Period</h2>
+				<label class="container">
+					<input id="autoLine" class="size" name="autoLine" type="checkbox">Auto Line<br/>
+	 				<span class="checkmark"></span>
+				</label>
+				<br/>
+				
+				Correct Switch Side <input id="autoCorrectSwitchSide" name="autoCorrectSwitchSide" type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="autoCorrectSwitchSide">
+				<input class="button dec" type="button" value="-" data-in="autoCorrectSwitchSide"><br/><br/>
+
+				Wrong Switch Side <input id="autoWrongSwitchSide" name="autoWrongSwitchSide" type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="autoWrongSwitchSide">
+				<input class="button dec" type="button" value="-" data-in="autoWrongSwitchSide"><br/><br/>
+
+				Scale <input id="autoScale" name="autoScale" type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="autoScale">
+				<input class="button dec" type="button" value="-" data-in="autoScale"><br/><br/>
+
+				Exchange <input id="autoExchange" name="autoExchange" type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="autoExchange">
+				<input class="button dec" type="button" value="-" data-in="autoExchange"><br/><br/>
+
+				<h2>Teleop Period</h2>
+				<h3>Blocks Delivered</h3>
+				Alliance Switch <input 	id="teleopAllianceSwitch" 	name="teleopAllianceSwitch" type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="teleopAllianceSwitch">
+				<input class="button dec" type="button" value="-" data-in="teleopAllianceSwitch"><br/><br/>
+
+				Scale <input 			id="teleopScale" 			name="teleopScale" 			type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="teleopScale">
+				<input class="button dec" type="button" value="-" data-in="teleopScale"><br/><br/>
+
+				Opponent Switch <input 	id="teleopOpponentSwitch" 	name="teleopOpponentSwitch" type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="teleopOpponentSwitch">
+				<input class="button dec" type="button" value="-" data-in="teleopOpponentSwitch"><br/><br/>
+
+				Exchange <input 		id="teleopExchange" 		name="teleopExchange" 		type="number" value="0" min="0" max="60"><br/>
+				<input class="button inc" type="button" value="+" data-in="teleopExchange">
+				<input class="button dec" type="button" value="-" data-in="teleopExchange"><br/><br/>
+				
+				<h2>Endgame</h2>
+				<label class="container">
+					<input id="climb" 		name="climb" 		type="checkbox"> Climbed<br/>
+	 				<span class="checkmark"></span>
+				</label>
+				
+				
+				<label class="container">
+					<input id="liftAssist" 	name="liftAssist" 	type="checkbox"> Lift Others<br/>
+	 				<span class="checkmark"></span>
+				</label>
+				
+				
+				<label class="container">
+					<input id="win" 	name="win" 	type="checkbox"> Won Game<br/>
+	 				<span class="checkmark"></span>
+				</label>
+				
+				
+				<h2>Comments</h2>
+				<textarea 	id="comments" 	name="comments"></textarea><br/>
+				
+				<input id="submit" type="submit">
+			</fieldset>
+		</form>
+	</body>
+</html>
