@@ -6,7 +6,7 @@ const AUTO_LINE_COLOR = 'orange'
 const AUTO_NONE_COLOR = 'red'
 
 // Client ID and API key from the Developer Console
-const CLIENT_ID = '706334826731-skluvlcun29l30bghou6oa6educgcflh.apps.googleusercontent.com';
+const CLIENT_ID = '706334826731-c72dmvdtc9t261uo1rl4dt06m1epamub.apps.googleusercontent.com'; // oauth client id
 const API_KEY = 'AIzaSyBkABC_Q-vMyP0ML1O3AKiSp_YCKsxKUT4';
 const spreadsheetId = '1XfIrmB9tNzBckh3W689WZToBLRnU2kwWatePk_pawoc';
 
