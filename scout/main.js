@@ -6,9 +6,9 @@ const AUTO_LINE_COLOR = 'orange'
 const AUTO_NONE_COLOR = 'red'
 
 // Client ID and API key from the Developer Console
-const CLIENT_ID = '637610330462-v4cg57tdvek412kcpvrn251glqo4eg0j.apps.googleusercontent.com'; // oauth client id
-const API_KEY = 'AIzaSyAV2IQlkpyNU-hl92JNEhPyCH-bM8cOc30';
-const spreadsheetId = '1XfIrmB9tNzBckh3W689WZToBLRnU2kwWatePk_pawoc';
+var CLIENT_ID = '637610330462-v4cg57tdvek412kcpvrn251glqo4eg0j.apps.googleusercontent.com'; // oauth client id
+var API_KEY = 'AIzaSyAV2IQlkpyNU-hl92JNEhPyCH-bM8cOc30';
+var spreadsheetId = '1XfIrmB9tNzBckh3W689WZToBLRnU2kwWatePk_pawoc';
 
 // Array of API discovery doc URLs for APIs used by the quickstart
 const DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
