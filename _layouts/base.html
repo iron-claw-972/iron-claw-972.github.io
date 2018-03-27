@@ -27,9 +27,39 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="/assets/styles/main.css">
+    <style>  
+      html {margin-top:33px !important;}  
+      * html body{margin-top: 33px !important;}  
+      #fixed-top-wrap{  
+         background:#F9E1D2;  
+         height:33px;  
+         position:fixed;  
+         top:0;  
+         left:0;  
+         z-index:999;  
+         width:100%;  
+      }  
+      #fixed-top{  
+         width:984px;  
+         position:relative;  
+         margin:0 auto;  
+         line-height:33px;  
+         height:33px;  
+         font-size:18px;  
+         color:#C00;  
+         font-size: 18px;  
+         text-align:center;  
+      }  
+      </style>
   </head>
 
   <body>
+    <div id="fixed-top-wrap">  
+    <div id="fixed-top">  
+        972 won the San Francisco Regional and is on its way to the World Championship! <a href="https://www.mercurynews.com/2018/03/26/local-robotics-team-is-headed-to-the-world-championship/"<b>Click to Learn More!</b></a> 
+    </div>  
+    </div>  
+    
     {% include header.html title=page.title image=page.image %}
     {{ content }}
   </body>
