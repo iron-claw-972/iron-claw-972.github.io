@@ -29,7 +29,7 @@ While our robot was fully capable of bringing cubes to the scale and switch, it 
 With this combination, the 971-972-973 alliance made it through the elimination rounds and finals without losing a single match. Being one of the winners for a regional competition, our team is now eligible to compete in the national competition being held in Houston from April 18-21. However, competing in the World Championship involves many expenses, so our team is currently fundraising so that we can participate in this amazing opportunity. To support us on our trip, visit our GoFundMe campaign! We are incredibly excited to participate in the FRC World Championships at Houston and would like to thank all of our great sponsors, mentors, and donors who made this a possibility for us! 
 
 
-Watch our winning match here: https://www.youtube.com/watch?v=CMw70IvHlXw
+Watch our winning match [here](https://www.youtube.com/watch?v=CMw70IvHlXw)
 
 
 <hr/>
