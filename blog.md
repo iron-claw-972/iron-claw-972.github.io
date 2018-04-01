@@ -8,7 +8,31 @@ image: about-background
 
 <h2><a name="2018">2018 Season Blog</a></h2>
 
-<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a> -- <a href="#2018five">Week 5</a> -- <a href="#2018six">Week 6</a></h3>
+<h3 align="center"><a href="#2018kickoff">Kickoff</a> -- <a href="#2018one">Week 1</a> -- <a href="#2018two">Week 2</a> -- <a href="#2018three">Week 3</a> -- <a href="#2018four">Week 4</a> -- <a href="#2018five">Week 5</a> -- <a href="#2018six">Week 6</a> -- <a href="#2018SFR">SFR Recap</a></h3>
+
+
+<h3><a name="2018SFR">SFR Recap</a></h3>
+
+
+The Los Gatos High School Robotics Team won the FIRST Robotics Competition event in San Francisco this past weekend! We were picked by Team 971: Spartan Robotics and Team 973: the Greybots to join their alliance for the eliminations rounds, where we went undefeated.
+
+
+Our win qualifies us to compete at the FRC World Championships in Houston! We are currently preparing for our trip to the event, which runs from April 18-21. 
+
+
+However, even with our time and effort, our victory at San Francisco was by no means easy: during the last few days of build season, the team collectively decided on a complete redesign of our elevator due to the old system’s inefficiency and constant jamming. This meant that in the few weeks between Stop Build Day and the San Francisco Regional, we had to manufacture an entirely new elevator design and install the system onto our robot during downtime at competition. Despite some initial issues, our problem solving paid off as our plan ultimately succeeded, and our versatile robot brought power cubes to switch, scale and exchange with our new and improved elevator. 
+
+
+While our robot was fully capable of bringing cubes to the scale and switch, it was especially efficient in earning power ups, so our team decided to have our robot focus on delivering power cubes to the exchange.This endeavor was met with great success, and our scores for the exchange were among the best for all of the teams at the competition. Our ability to score cubes in the exchange impressed many teams and managed to secure our position as the final pick on the top seed alliance with Team 971 (Spartan Robotics) and Team 973 (the Greybots), whose unrivaled domination of the scale perfectly complemented our exchange capabilities.
+
+
+With this combination, the 971-972-973 alliance made it through the elimination rounds and finals without losing a single match. Being one of the winners for a regional competition, our team is now eligible to compete in the national competition being held in Houston from April 18-21. However, competing in the World Championship involves many expenses, so our team is currently fundraising so that we can participate in this amazing opportunity. To support us on our trip, visit our GoFundMe campaign! We are incredibly excited to participate in the FRC World Championships at Houston and would like to thank all of our great sponsors, mentors, and donors who made this a possibility for us! 
+
+
+Watch our winning match [here](https://www.youtube.com/watch?v=CMw70IvHlXw)
+
+
+<hr/>
 
 
 <h3><a name="2018six">Week 6</a></h3>
