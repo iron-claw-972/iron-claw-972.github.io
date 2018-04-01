@@ -26,10 +26,10 @@ However, even with our time and effort, our victory at San Francisco was by no m
 While our robot was fully capable of bringing cubes to the scale and switch, it was especially efficient in earning power ups, so our team decided to have our robot focus on delivering power cubes to the exchange.This endeavor was met with great success, and our scores for the exchange were among the best for all of the teams at the competition. Our ability to score cubes in the exchange impressed many teams and managed to secure our position as the final pick on the top seed alliance with Team 971 (Spartan Robotics) and Team 973 (the Greybots), whose unrivaled domination of the scale perfectly complemented our exchange capabilities.
 
 
-With this combination, the 971-972-973 alliance made it through the elimination rounds and finals without losing a single match. Being one of the winners for a regional competition, our team is now eligible to compete in the national competition being held in Houston from April 18-21. However, competing in the World Championship involves many expenses, so our team is currently fundraising so that we can participate in this amazing opportunity. To support us on our trip, visit our GoFundMe campaign! We are incredibly excited to participate in the FRC World Championships at Houston and would like to thank all of our great sponsors, mentors, and donors who made this a possibility for us! 
+With this combination, the 971-972-973 alliance made it through the elimination rounds and finals without losing a single match. Being one of the winners for a regional competition, our team is now eligible to compete in the national competition being held in Houston from April 18-21. However, competing in the World Championship involves many expenses, so our team is currently fundraising so that we can participate in this amazing opportunity. To support us on our trip, visit our <a href="https://www.gofundme.com/send-lghs-robotics-to-championships" target="_blank">GoFundMe campaign</a>! We are incredibly excited to participate in the FRC World Championships at Houston and would like to thank all of our great sponsors, mentors, and donors who made this a possibility for us! 
 
 
-Watch our winning match [here](https://www.youtube.com/watch?v=CMw70IvHlXw)
+Watch our winning match <a href="https://www.youtube.com/watch?v=CMw70IvHlXw" target="_blank">here.</a>
 
 
 <hr/>
