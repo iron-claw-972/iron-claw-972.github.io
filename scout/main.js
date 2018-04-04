@@ -248,7 +248,9 @@ function createRow(team, auto, switchAve, scaleAve, climb, win, warning) {
   var c = '<td>' + climb + '</td>'
   var w = '<td>' + win + '</td>'
 
-  return '<tr style="background-color: ' + WARNING_COLOR + ';">' + t + a + sw + sc + c + w + '</tr>'
+  if (warning)
+    return '<tr style="background-color: ' + WARNING_COLOR + ';">' + t + a + sw + sc + c + w + '</tr>'
+  return '<tr>' + t + a + sw + sc + c + w + '</tr>'
 }
 
 function setupTable(table) {
