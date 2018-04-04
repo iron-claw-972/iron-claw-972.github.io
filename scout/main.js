@@ -1,14 +1,17 @@
-const AUTO_DECISION_DEADBAND = .6;
+const AUTO_DECISION_DEADBAND = .49;
+const TEAM_EXCLUSION_DEADBAND = .49
+const TEAM_WARNING_DEADBAND = .74;
 
 const AUTO_SCALE_COLOR = 'blue'
 const AUTO_SWITCH_COLOR = 'green'
 const AUTO_LINE_COLOR = 'orange'
 const AUTO_NONE_COLOR = 'red'
+const WARNING_COLOR = '#F7BE81' // orangish
 
 // Client ID and API key from the Developer Console
-var CLIENT_ID = '637610330462-v4cg57tdvek412kcpvrn251glqo4eg0j.apps.googleusercontent.com'; // oauth client id
-var API_KEY = 'AIzaSyAV2IQlkpyNU-hl92JNEhPyCH-bM8cOc30';
-var spreadsheetId = '1XfIrmB9tNzBckh3W689WZToBLRnU2kwWatePk_pawoc';
+const CLIENT_ID = '706334826731-skluvlcun29l30bghou6oa6educgcflh.apps.googleusercontent.com';
+const API_KEY = 'AIzaSyBkABC_Q-vMyP0ML1O3AKiSp_YCKsxKUT4';
+const spreadsheetId = '1-IviKDX4I6YIn91c9bCKNuz8CDZBbLq02fEz-5fjQcw';
 
 // Array of API discovery doc URLs for APIs used by the quickstart
 const DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
@@ -21,19 +24,57 @@ var authorizeButton = document.getElementById('authorize-button');
 var signoutButton = document.getElementById('signout-button');
 
 const defaultTable = '<tr>' +
-  '<th>Team</th>' +
-  '<th>Auto</th>' +
-  '<th>Switch</th>' +
-  '<th>Scale</th>' +
-  '<th>Climb</th>' +
-  '<th>Win</th>' +
+  '<th onclick="sortDisplayTable(0)">Team</th>' +
+  '<th onclick="sortDisplayTable(1)">Auto</th>' +
+  '<th onclick="sortDisplayTable(2)">Switch</th>' +
+  '<th onclick="sortDisplayTable(3)">Scale</th>' +
+  '<th onclick="sortDisplayTable(4)">Climb</th>' +
+  '<th onclick="sortDisplayTable(5)">Win</th>' +
   '</tr>'
 
+var actualData = [];
 var tableData = [];
 
 function toFixed(value, precision) {
   var power = Math.pow(10, precision || 0);
   return String(Math.round(value * power) / power);
+}
+
+function isSorted(table, col) {
+  var last = table[0][col];
+  for (e in table) {
+    if (last > e[col])
+      return false
+    last = e[col]
+  }
+  return true
+}
+
+function sort(table, col) {
+  // console.log(isSorted(table, col))
+  // if (isSorted(table, col)) {
+  table.sort(function(a, b) {
+    ela = a[col]
+    elb = b[col]
+    if (parseInt(ela) && parseInt(elb)) {
+      ela = parseInt(ela)
+      elb = parseInt(elb)
+    }
+    if (ela > elb)
+      return 1
+    if (ela < elb)
+      return -1
+    return 0
+  })
+  // } else {
+  //   table.sort(function(a, b) {
+  //     if (a[col] > b[col])
+  //       return -1
+  //     if (a[col] < b[col])
+  //       return 1
+  //     return 0
+  //   })
+  // }
 }
 
 /**
@@ -71,54 +112,80 @@ function initClient() {
  */
 function updateSigninStatus(isSignedIn) {
 
-  if (isSignedIn) {
+  actualData = []
 
-    authorizeButton.style.display = 'none'
-    signoutButton.style.display = 'inline-block'
+  gainAccess(function() {
+    sort(actualData, 0)
+    setupTable(actualData)
+    createChart('switch', actualData, 6)
+    createChart('scale', actualData, 7)
+    createChart('climbs', actualData, 10)
+    createChart('wins', actualData, 12)
+    $('#switch, #scale, #climbs, #wins').show()
 
-    console.log('start')
-    if (localStorage['tableData'] != 'undefined' && localStorage['tableData'] != undefined) {
-      console.log(localStorage['tableData'])
-      tableData = JSON.parse(localStorage['tableData'])
-      setupTable(tableData)
-      createChart('switch', tableData, 6)
-      createChart('scale', tableData, 7)
-      createChart('climbs', tableData, 10)
-      createChart('wins', tableData, 12)
-      $('#switch, #scale, #climbs, #wins').show()
+    console.log('finish')
 
-      function sleepFor(sleepDuration) {
-        var now = new Date().getTime();
-        while (new Date().getTime() < now + sleepDuration) { /* do nothing */ }
-      }
-      console.log('middle')
-    }
+    localStorage['actualData'] = JSON.stringify(actualData);
+  })
 
-    tableData = []
+  // __realUpdateSignin()
 
-    gainAccess(function() {
-      setupTable(tableData)
-      createChart('switch', tableData, 6)
-      createChart('scale', tableData, 7)
-      createChart('climbs', tableData, 10)
-      createChart('wins', tableData, 12)
-      $('#switch, #scale, #climbs, #wins').show()
-
-      console.log('finish')
-
-      localStorage['tableData'] = JSON.stringify(tableData);
-    })
-
-  } else {
-
-    authorizeButton.style.display = 'inline-block'
-    signoutButton.style.display = 'none'
-
-    $('#statsTable').hide()
-    $('#switch, #scale, #climbs, #wins').hide()
-
-  }
 }
+
+// function __realUpdateSignin() {
+//   if (isSignedIn) {
+
+//     authorizeButton.style.display = 'none'
+//     signoutButton.style.display = 'inline-block'
+
+//     console.log('start')
+
+//     // load cahche
+//     if (localStorage['actualData'] != 'undefined' && localStorage['actualData'] != undefined) {
+//       console.log(localStorage['actualData'])
+//       actualData = JSON.parse(localStorage['actualData'])
+
+//       sort(actualData, 0)
+//       setupTable(actualData)
+//       createChart('switch', actualData, 6)
+//       createChart('scale', actualData, 7)
+//       createChart('climbs', actualData, 10)
+//       createChart('wins', actualData, 12)
+//       $('#switch, #scale, #climbs, #wins').show()
+
+//       function sleepFor(sleepDuration) {
+//         var now = new Date().getTime();
+//         while (new Date().getTime() < now + sleepDuration) { /* do nothing */ }
+//       }
+//       console.log('middle')
+//     }
+
+//     actualData = []
+
+//     gainAccess(function() {
+//       sort(actualData, 0)
+//       setupTable(actualData)
+//       createChart('switch', actualData, 6)
+//       createChart('scale', actualData, 7)
+//       createChart('climbs', actualData, 10)
+//       createChart('wins', actualData, 12)
+//       $('#switch, #scale, #climbs, #wins').show()
+
+//       console.log('finish')
+
+//       localStorage['actualData'] = JSON.stringify(actualData);
+//     })
+
+//   } else {
+
+//     authorizeButton.style.display = 'inline-block'
+//     signoutButton.style.display = 'none'
+
+//     // $('#statsTable').hide()
+//     // $('#switch, #scale, #climbs, #wins').hide()
+
+//   }
+// }
 
 /**
  *  Sign in the user upon button click.
@@ -143,7 +210,7 @@ function appendRow(row) {
   for (var i = 1; i < row.length; i++) {
     datarow.push(toFixed(row[i], 3))
   }
-  tableData.push(datarow)
+  actualData.push(datarow)
 }
 
 function gainAccess(callback) {
@@ -171,7 +238,7 @@ function gainAccess(callback) {
   });
 }
 
-function createRow(team, auto, switchAve, scaleAve, climb, win) {
+function createRow(team, auto, switchAve, scaleAve, climb, win, warning) {
   // var t = '<td><a href="team/?tn=' + team + '">' + team + '</a></td>'
   var t = '<td onclick="window.location.href = \'team/?tn=' + team + '\'"><a href="team/?tn=' + team + '">' + team + '</a></td>'
   // var t = '<td onclick="window.location.href = \'team/?tn=' + team + '\'">' + team + '</a></td>'
@@ -180,55 +247,59 @@ function createRow(team, auto, switchAve, scaleAve, climb, win) {
   var sc = '<td>' + scaleAve + '</td>'
   var c = '<td>' + climb + '</td>'
   var w = '<td>' + win + '</td>'
-  return '<tr>' + t + a + sw + sc + c + w + '</tr>'
+
+  return '<tr style="background-color: ' + WARNING_COLOR + ';">' + t + a + sw + sc + c + w + '</tr>'
 }
 
 function setupTable(table) {
   $('#statsTable').html(defaultTable)
+  tableData = []
+
   for (var j = 0; j < table.length; j++) {
     row = table[j]
-    var team = row[0]
 
+    var scoutRatio = row[15] / row[14]
+    if (scoutRatio < TEAM_EXCLUSION_DEADBAND)
+      continue
+    var warning = false
+    if (scoutRatio < TEAM_WARNING_DEADBAND)
+      warning = true
+
+    var team = row[0]
     var auto;
 
     var autoScale = row[4];
     var autoSwitch = row[2];
     var autoLine = row[1];
     if (autoScale >= AUTO_DECISION_DEADBAND)
-      auto = '<p style="color: ' + AUTO_SCALE_COLOR + '">SCALE<p>'
+      auto = '<p data-score="d" style="color: ' + AUTO_SCALE_COLOR + '">SCALE<p>'
     else if (autoSwitch >= AUTO_DECISION_DEADBAND)
-      auto = '<p style="color: ' + AUTO_SWITCH_COLOR + '">SWITCH<p>'
+      auto = '<p data-score="c" style="color: ' + AUTO_SWITCH_COLOR + '">SWITCH<p>'
     else if (autoLine >= AUTO_DECISION_DEADBAND)
-      auto = '<p style="color: ' + AUTO_LINE_COLOR + '">LINE<p>'
+      auto = '<p data-score="b" style="color: ' + AUTO_LINE_COLOR + '">LINE<p>'
     else
-      auto = '<p style="color: ' + AUTO_NONE_COLOR + '">NONE<p>'
+      auto = '<p data-score="a" style="color: ' + AUTO_NONE_COLOR + '">NONE<p>'
 
-    var switchAve = parseFloat(row[6]) + parseFloat(row[8])
+    var switchAve = toFixed((parseFloat(row[6]) + parseFloat(row[8])), 3)
     var scaleAve = row[7]
 
     var climb = row[10]
-    var win = row[12]
 
-    document.getElementById('statsTable').innerHTML += createRow(team, auto, switchAve, scaleAve, climb, win)
+    var win = row[12]
+    if (!isNaN(row[13]))
+      win = row[13]
+
+    tableData.push([team, auto, switchAve, scaleAve, climb, win, warning])
+
+    document.getElementById('statsTable').innerHTML += createRow(team, auto, switchAve, scaleAve, climb, win, warning)
   }
   $('#statsTable').show()
 }
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
+
+function sortDisplayTable(col) {
+  sort(tableData, col)
+  $('#statsTable').html(defaultTable)
+  for (var j = 0; j < tableData.length; j++) {
+    document.getElementById('statsTable').innerHTML += createRow(tableData[j][0], tableData[j][1], tableData[j][2], tableData[j][3], tableData[j][4], tableData[j][5], tableData[j][6])
+  }
+}

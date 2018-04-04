@@ -20,33 +20,32 @@
       <button class="button menuItem loginout" id="authorize-button" style="display: none;">LOG IN</button>
       <button class="button menuItem loginout" id="signout-button" style="display: none;">LOG OUT</button>
     </div>
-
-    <table id="statsTable">
-    </table>
-
     <script src="main.js">
     </script>
+    
+    <table id="statsTable">
+    </table>
 
     <script async defer src="https://apis.google.com/js/api.js"
       onload="this.onload=function(){};handleClientLoad()"
       onreadystatechange="if (this.readyState === 'complete') this.onload()">
     </script>
 
-    <div class="chartGroupContainer">
+    <!-- <div class="chartGroupContainer"> -->
       <div class="chartContainer">
         <canvas id="switch"></canvas>
       </div>
       <div class="chartContainer">
         <canvas id="scale"></canvas>
       </div>
-    </div>
-    <div class="chartGroupContainer">
+    <!-- </div> -->
+    <!-- <div class="chartGroupContainer"> -->
       <div class="chartContainer">
         <canvas id="climbs"></canvas>
       </div>
       <div class="chartContainer">
         <canvas id="wins"></canvas>
       </div>
-    </div>
+    <!-- </div> -->
   </body>
 </html>

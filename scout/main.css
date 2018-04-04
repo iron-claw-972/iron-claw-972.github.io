@@ -46,10 +46,6 @@ body {
     float: right;
 }
 
-.loginout:hover {
-    box-shadow: 3px 3px 10px 1px #888888;
-}
-
 table, th, td {
     border: 1px solid gray;
     border-collapse: collapse;
@@ -66,21 +62,12 @@ table, th, td {
     background-color: gainsboro;
 }
 
-.chartGroupContainer {
-    width: 95%;
-    height: auto;
-    margin: auto;
-    padding: 10px;
-    margin-bottom: 1px;
-}
-
 .chartContainer {
     min-width: 400px;
-    width: 50%;
+    width: 90%;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 1px;
-    float: left;
 }
 
 @media (max-width: 1000px) {
@@ -92,14 +79,9 @@ table, th, td {
     #statsTable {
         font-size: 24px;
     }
-    .chartSection {
+    .chartContainer {
         width: 100%;
         margin: auto;
-    }
-    .chartContainer {
-        max-width: 650px;
-        width: 90%;
-        margin-left: 5%;
     }
 }
 
