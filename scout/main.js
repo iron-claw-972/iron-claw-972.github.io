@@ -1,6 +1,6 @@
 const AUTO_DECISION_DEADBAND = .49;
 const TEAM_EXCLUSION_DEADBAND = .49
-const TEAM_WARNING_DEADBAND = .74;
+const TEAM_WARNING_DEADBAND = .49;
 
 const AUTO_SCALE_COLOR = 'blue'
 const AUTO_SWITCH_COLOR = 'green'
@@ -261,8 +261,8 @@ function setupTable(table) {
     row = table[j]
 
     var scoutRatio = row[15] / row[14]
-    if (scoutRatio < TEAM_EXCLUSION_DEADBAND)
-      continue
+//     if (scoutRatio < TEAM_EXCLUSION_DEADBAND)
+//       continue
     var warning = false
     if (scoutRatio < TEAM_WARNING_DEADBAND)
       warning = true
