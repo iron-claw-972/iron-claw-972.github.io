@@ -10,7 +10,6 @@ $follow-image: url('/assets/img/2017_season/team_8.jpg');
 $contact-image: url('/assets/img/2017_season/team_2.jpg');
 $calendar-image: url('/assets/img/2017_season/team_0.jpg');
 $robots-info-image: url('/assets/img/2017_season/team_7.jpg');
-$qualcomm-image: url('/assets/img/2016_sponsors/qualcomm.png');
 $nmf-image: url('/assets/img/2017_sponsors/nmf.png');
 $intuitive-image: url('/assets/img/2017_sponsors/intuitive.png');
 $bw-image: url('/assets/img/2017_sponsors/brinwojcicki.png');
@@ -35,6 +34,15 @@ $atg-image: url('/assets/img/2017_sponsors/atg.png');
 $nvidia-image: url('/assets/img/2017_sponsors/nvidia.png');
 $polycarb-image: url('/assets/img/2017_season/2017_polycarb.jpg');
 $shirt-image: url('/assets/img/2017_season/2017_shirt.jpg');
+$aeronet-image: url('/assets/img/2018_sponsors/aeronet.jpg');
+$brracing-image: url('/assets/img/2018_sponsors/br.PNG');
+$tcfo-image: url('/assets/img/2018_sponsors/tcfo.PNG');
+$lglions-image: url('/assets/img/2018_sponsors/lglions.PNG');
+$dma-image: url('/assets/img/2018_sponsors/dma.PNG');
+$facilitron-image: url('/assets/img/2018_sponsors/facilitron.png');
+$hallandburnett-image: url('/assets/img/2018_sponsors/hb.png');
+$qualcomm-image: url('/assets/img/2018_sponsors/qualcomm.png');
+
 
 //custom fonts
 
@@ -227,10 +235,6 @@ iframe {
   height: 50px;
 }
 
-.qualcomm {
-  background: $qualcomm-image no-repeat center / contain;
-}
-
 .nmf {
   background: $nmf-image no-repeat center / contain;
 }
@@ -326,6 +330,38 @@ iframe {
 
 .robot-shirt {
   background: $shirt-image no-repeat center / contain;
+}
+
+.aeronet {
+  background: $aeronet-image no-repeat center / contain;
+}
+
+.brracing {
+  background: $brracing-image no-repeat center / contain;
+}
+
+.tcfo {
+  background: $tcfo-image no-repeat center / contain;
+}
+
+.lglions {
+  background: $lglions-image no-repeat center / contain;
+}
+
+.dma {
+  background: $dma-image no-repeat center / contain;
+}
+
+.facilitron {
+  background: $facilitron-image no-repeat center / contain;
+}
+
+.hallandburnett {
+  background: $hallandburnett-image no-repeat center / contain;
+}
+
+.qualcomm {
+  background: $qualcomm-image no-repeat center / contain;
 }
 
 .center-grid {
